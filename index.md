@@ -1,6 +1,5 @@
 # Xinchen Liu's Website
-![Image](./images/photo1.jpg)
-<img src="./images/photo1.jpg" width="200" height="200" alt="photo" align=left>
+<img src="./images/photo1.jpg" width="200" height="200" alt="photo" align=left>![Image](./images/photo1.jpg)
 ## Header 2
 ### Header 3
 
