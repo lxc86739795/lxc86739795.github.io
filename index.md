@@ -1,5 +1,5 @@
 # Xinchen Liu's Website
-![Image](./images/photo1_240.jpg)
+![Image](./images/photo1_240.jpg) Xinchen is a researcher at JD AI Research, JD.com.
 ## Header 2
 ### Header 3
 
@@ -10,4 +10,3 @@
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
