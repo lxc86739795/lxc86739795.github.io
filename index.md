@@ -1,5 +1,5 @@
 # Xinchen Liu's Website
-[Image](./images/photo1.jpg)
+![Image](./images/photo1.jpg)
 ## Header 2
 ### Header 3
 
