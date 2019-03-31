@@ -14,8 +14,11 @@ Email: liuxinchen1 at jd dot com
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
 _Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019
 
+- Meng Zhang, **Xinchen Liu**, Wu Liu, Anfu Zhou, Huadong Ma, Tao Mei:
+_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019
+
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
-_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658 (2018)
+_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018)
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
 _A Progressive Vehicle Search System for Video Surveillance Networks_. BigMM 2018: 1-7
