@@ -12,10 +12,13 @@ Email: liuxinchen1 at jd dot com
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
-_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019
+_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019 (Accepted)
+
+- **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
+_PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. Journal of Computer Science and Technology, (2019) (Accepted)
 
 - Meng Zhang, **Xinchen Liu**, Wu Liu, Anfu Zhou, Huadong Ma, Tao Mei:
-_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019
+_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019 (Accepted)
 
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
 _PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018)
