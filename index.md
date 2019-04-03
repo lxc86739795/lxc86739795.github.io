@@ -1,10 +1,10 @@
 ![Image](./images/photo1_240.jpg)
 
-## About
-I am a researcher at JD AI Research working with Dr. Wu Liu and Dr. Tao Mei.
-I received my Ph. D. degree in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications. 
-My supervisor is Prof.Huadong Ma. 
-My research interests include multimedia computing and computer vision.
+## About Me
+I am currently a researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/awards/).
+I received my Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in 2018. 
+My supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?p=2_4_266). 
+My research interests include multimedia computing, computer vision, and their applications in retail.
 
 Email: liuxinchen1 at jd dot com
 
@@ -71,4 +71,4 @@ a challenging dataset.
 the length of most clips is limited in 30 seconds to keep the stable scenes, which reduces the ambiguity of relations in videos.
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 
-_last Update: **March, 2019**_
+_last Update: **April, 2019**_
