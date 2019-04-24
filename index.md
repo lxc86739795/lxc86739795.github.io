@@ -7,7 +7,7 @@ My supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?
 My research interests include multimedia computing, computer vision, and their applications in retail.
 
 Email: liuxinchen1 at jd dot com
-
+Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
