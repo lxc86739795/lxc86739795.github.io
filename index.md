@@ -6,8 +6,9 @@ I received my Ph. D. degree in computer science in Beijing Key Lab of Intelligen
 My supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?p=2_4_266). 
 My research interests include multimedia computing, computer vision, and their applications in retail.
 
-Email: liuxinchen1 at jd dot com
-Github: [lxc86739795](https://github.com/lxc86739795)
+* Email: liuxinchen1 at jd dot com
+
+* Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
