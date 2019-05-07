@@ -55,7 +55,7 @@ IEEE ICME Best Student Paper Award, 2016, "_Large-scale vehicle re-identificatio
 
 ## Datesets
 
-### VeRi ([More Details](https://vehiclereid.github.io/VeRi/))
+### VeRi ([More Details](https://github.com/VehicleReId/VeRidataset/))
 VeRi is a large-scale benchmark dateset for vehicle Re-Id in the real-world urban surveillance scenario.
 It contains over 50,000 images of 776 vehicles captured by 20 cameras covering an 1.0 km^2 area in 24 hours.
 The images are captured in a real-world unconstrained surveillance scene and labeled with varied attributes, e.g. BBoxes, types, colors, and brands.
