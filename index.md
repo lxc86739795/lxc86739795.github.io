@@ -46,7 +46,7 @@ _Large-scale vehicle re-identification in urban surveillance videos_. ICME 2016:
 _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_. ICDSC 2014: 26:1-26:6
 
 ## Activities
-Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, ACM TOMM, MTAP, ...
+Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, ACM TOMM, IoTJ, MTAP, ...
 
 Conference Reviewer: CVPR, ACM MM, ICME, ICASSP, ICIP, ...
 
@@ -72,4 +72,4 @@ a challenging dataset.
 the length of most clips is limited in 30 seconds to keep the stable scenes, which reduces the ambiguity of relations in videos.
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 
-_last Update: **April, 2019**_
+_last Update: **May, 2019**_
