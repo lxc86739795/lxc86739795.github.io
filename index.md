@@ -55,8 +55,11 @@ Conference Reviewer: CVPR, ACM MM, ICME, ICASSP, ICIP, ...
 
 ## Awards and Honors
 IEEE TMM Multimedia Prize Paper Award, 2019, "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
+
 CVPR 2019 LIP Challenge, Track 3 Multi-Person Human Parsing, 2nd Award
+
 CVPR 2018 LIP Challenge, Track 1 Single-Person Human Parsing, 2nd Award
+
 IEEE ICME Best Student Paper Award, 2016, "_Large-scale vehicle re-identification in urban surveillance videos_"
 
 ## Datesets
