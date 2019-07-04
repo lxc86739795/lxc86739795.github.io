@@ -10,8 +10,9 @@ My research interests include multimedia computing, computer vision, and their a
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
+---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
-
+### 2019
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
 _BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019. (Accepted)
 
@@ -23,7 +24,7 @@ _PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. 
 
 - Meng Zhang, **Xinchen Liu**, Wu Liu, Anfu Zhou, Huadong Ma, Tao Mei:
 _Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019. (Accepted)
-
+### 2018
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
 _PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018) (**TMM Multimedia Prize Paper Award 2019**)
 
@@ -32,10 +33,10 @@ _A Progressive Vehicle Search System for Video Surveillance Networks_. BigMM 201
 
 - Wenhui Gao, **Xinchen Liu**, Huadong Ma, Yanan Li, Liang Liu:
 _MMH: Multi-Modal Hash for Instant Mobile Video Search_. MIPR 2018: 57-62
-
+### 2017
 - Wu Liu, **Xinchen Liu**, Huadong Ma, Peng Cheng:
 _Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN_. ACM Multimedia 2017: 1618-1626
-
+### 2016
 - Shuangqun Li, **Xinchen Liu**, Wu Liu, Huadong Ma, Haitao Zhang:
 _A discriminative null space based deep learning approach for person re-identification_. CCIS 2016: 480-484
 
@@ -44,15 +45,17 @@ _A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urb
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Huiyuan Fu:
 _Large-scale vehicle re-identification in urban surveillance videos_. ICME 2016: 1-6 (**Best Student Paper Award**)
-
+### Before 2015
 - **Xinchen Liu**, Huadong Ma, Huiyuan Fu, Mo Zhou:
 _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_. ICDSC 2014: 26:1-26:6
 
+---
 ## Activities
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, ACM TOMM, IoTJ, MTAP, ...
 
 Conference Reviewer: CVPR, ACM MM, ICME, ICASSP, ICIP, ...
 
+---
 ## Awards and Honors
 IEEE TMM Multimedia Prize Paper Award, 2019, for the paper "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
 
@@ -62,6 +65,7 @@ CVPR 2018 LIP Challenge, Track 1 Single-Person Human Parsing, 2nd Award
 
 IEEE ICME Best Student Paper Award, 2016, for the paper "_Large-scale vehicle re-identification in urban surveillance videos_"
 
+---
 ## Research
 
 ### Vehicle Search in Larve-scale Surveillance Networks ([More Details](http://vehiclereid.github.io/VeRi/))
@@ -74,7 +78,7 @@ It not only provides large numbers of vehicles with varied labels and sufficient
 Extensive experiments on the VeRi dataset demonstrate both the accuracy and efficiency of our progressive vehicle re-identification framework.
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;&ensp;![Image](./images/VeRi2_240.png)
-
+---
 ### Fine-grained Human Parsing
 This paper focuses on fine-grained human parsing in images. 
 This is a very challenging task due to the diverse person appearance, semantic ambiguity of different body parts and clothing, and extremely small parsing targets. 
@@ -88,7 +92,7 @@ Besides, in the end of BraidNet, a Pairwise Hard Region Embedding strategy is pr
 Extensive experiments show that the proposed BraidNet achieves better performance than the state-of-the-art methods for fine-grained human parsing.
 
   ![Image](./images/BraidNet1_400.png)    ![Image](./images/BraidNet2_400.png)
-
+---
 ### Social Relation Recognition 
 Discovering social relations, e.g., kinship, friendship, etc., from visual contents can make machines better interpret the behaviors and emotions of human beings. 
 Existing studies mainly focus on recognizing social relations from still images while neglecting another important media—video. 
@@ -103,5 +107,5 @@ Extensive experiments on a new large-scale Video Social Relation dataset demonst
 The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk5oMJlLjAHi0vEgzqEWg).
 
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
-
+---
 _last Update: **July, 2019**_
