@@ -78,6 +78,7 @@ It not only provides large numbers of vehicles with varied labels and sufficient
 Extensive experiments on the VeRi dataset demonstrate both the accuracy and efficiency of our progressive vehicle re-identification framework.
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;&ensp;![Image](./images/VeRi2_240.png)
+
 ---
 ### Fine-grained Human Parsing
 This paper focuses on fine-grained human parsing in images. 
@@ -92,6 +93,7 @@ Besides, in the end of BraidNet, a Pairwise Hard Region Embedding strategy is pr
 Extensive experiments show that the proposed BraidNet achieves better performance than the state-of-the-art methods for fine-grained human parsing.
 
   ![Image](./images/BraidNet1_400.png)    ![Image](./images/BraidNet2_400.png)
+
 ---
 ### Social Relation Recognition 
 Discovering social relations, e.g., kinship, friendship, etc., from visual contents can make machines better interpret the behaviors and emotions of human beings. 
@@ -108,4 +110,5 @@ The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk
 
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
+
 _last Update: **July, 2019**_
