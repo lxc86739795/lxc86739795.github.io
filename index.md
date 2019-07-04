@@ -12,14 +12,17 @@ My research interests include multimedia computing, computer vision, and their a
 
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
+- **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
+_BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACMMM 2019. (Accepted)
+
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
-_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019 (Accepted)
+_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019.
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
-_PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. Journal of Computer Science and Technology, (2019) (Accepted)
+_PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. Comput. Sci. Technol. 34(3): 634-644 (2019)
 
 - Meng Zhang, **Xinchen Liu**, Wu Liu, Anfu Zhou, Huadong Ma, Tao Mei:
-_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019 (Accepted)
+_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019. (Accepted)
 
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
 _PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018)
@@ -72,4 +75,4 @@ a challenging dataset.
 the length of most clips is limited in 30 seconds to keep the stable scenes, which reduces the ambiguity of relations in videos.
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 
-_last Update: **May, 2019**_
+_last Update: **July, 2019**_
