@@ -62,23 +62,46 @@ CVPR 2018 LIP Challenge, Track 1 Single-Person Human Parsing, 2nd Award
 
 IEEE ICME Best Student Paper Award, 2016, for the paper "_Large-scale vehicle re-identification in urban surveillance videos_"
 
-## Datesets
+## Research
 
-### VeRi ([More Details](http://vehiclereid.github.io/VeRi/))
-VeRi is a large-scale benchmark dateset for vehicle Re-Id in the real-world urban surveillance scenario.
-It contains over 50,000 images of 776 vehicles captured by 20 cameras covering an 1.0 km^2 area in 24 hours.
-The images are captured in a real-world unconstrained surveillance scene and labeled with varied attributes, e.g. BBoxes, types, colors, and brands.
-Each vehicle is captured by 2 ∼ 18 cameras in different viewpoints, illuminations, resolutions, and occlusions, which provides high recurrence rate for vehicle Re-Id in practical surveillance environment.
-It is also labeled with sufficient license plates and spatiotemporal information, such as the BBoxes of plates, plate strings, the timestamps of vehicles, and the distances between neighbouring cameras.
+### Vehicle Search in Larve-scale Surveillance Networks ([More Details](http://vehiclereid.github.io/VeRi/))
+Compared with person re-identification, which has concentrated attention, vehicle re-identification is an important yet frontier problem in video surveillance and has been neglected by the multimedia and vision communities. 
+Since most existing approaches mainly consider the general vehicle appearance for re-identification while overlooking the distinct vehicle identifier, such as the license number plate, they attain suboptimal performance. 
+In this work, we propose PROVID, a PROgressive Vehicle re-IDentification framework based on deep neural networks. 
+In particular, our framework not only utilizes the multi-modality data in large-scale video surveillance, such as visual features, license plates, camera locations, and contextual information, but also considers vehicle re-identification in two progressive procedures: coarse-to-fine search in the feature domain, and near-to-distant search in the physical space. 
+Furthermore, to evaluate our progressive search framework and facilitate related research, we construct the VeRi dataset, which is the most comprehensive dataset from real-world surveillance videos. 
+It not only provides large numbers of vehicles with varied labels and sufficient cross-camera recurrences but also contains license number plates and contextual information. 
+Extensive experiments on the VeRi dataset demonstrate both the accuracy and efficiency of our progressive vehicle re-identification framework.
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;&ensp;![Image](./images/VeRi2_240.png)
 
-### ViSR (Download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk5oMJlLjAHi0vEgzqEWg))
-ViSR si a large-scale and high-quality Video based Social Relation dataset.
-It contains more than 8,000 video clips cropped from over 200 movies of various types.
-It not only covers most common social relations in daily life with balanced class distribution, but also contains various scenes, environments, and backgrounds, which makes ViSR
-a challenging dataset. 
-the length of most clips is limited in 30 seconds to keep the stable scenes, which reduces the ambiguity of relations in videos.
+### Fine-grained Human Parsing
+This paper focuses on fine-grained human parsing in images. 
+This is a very challenging task due to the diverse person appearance, semantic ambiguity of different body parts and clothing, and extremely small parsing targets. 
+Although existing approaches can achieve significant improvement by pyramid feature learning, multi-level supervision, and joint learning with pose estimation, human parsing is still far from being solved. 
+Different from existing approaches, we propose a Braiding Network, named as BraidNet, to learn complementary semantics and details for fine-grained human parsing. 
+The BraidNet contains a two-stream braid-like architecture.
+The first stream is a semantic abstracting net with a deep yet narrow structure which can learn semantic knowledge by a hierarchy of fully convolution layers to overcome the challenges of diverse person appearance. 
+To capture low-level details of small targets, the detail-preserving net is designed to exploit a shallow yet wide network without down-sampling, which can retain sufficient local structures for small objects. 
+Moreover, we design a group of braiding modules across the two sub-nets, by which complementary information can be exchanged during end-to-end training. 
+Besides, in the end of BraidNet, a Pairwise Hard Region Embedding strategy is propose to eliminate the semantic ambiguity of different body parts and clothing. 
+Extensive experiments show that the proposed BraidNet achieves better performance than the state-of-the-art methods for fine-grained human parsing.
+
+  ![Image](./images/BraidNet1_400.png)    ![Image](./images/BraidNet2_400.png)
+
+### Social Relation Recognition 
+Discovering social relations, e.g., kinship, friendship, etc., from visual contents can make machines better interpret the behaviors and emotions of human beings. 
+Existing studies mainly focus on recognizing social relations from still images while neglecting another important media—video. 
+On the one hand, the actions and storylines in videos provide more important cues for social relation recognition. 
+On the other hand, the key persons may appear at arbitrary spatial-temporal locations, even not in one same image from beginning to the end. 
+To overcome these challenges, we propose a Multi-scale Spatial-Temporal Reasoning (MSTR) framework to recognize social relations from
+videos. 
+For the spatial representation, we not only adopt a temporal segment network to learn global action and scene information, but also design a Triple Graphs model to capture visual relations between persons and objects. 
+For the temporal domain, we propose a Pyramid Graph Convolutional Network to perform temporal reasoning with multi-scale receptive fields, which can obtain both long-term and short-term storylines in videos. 
+By this means, MSTR can comprehensively explore the multi-scale actions and story-lines in spatial-temporal dimensions for social relation reasoning in videos. 
+Extensive experiments on a new large-scale Video Social Relation dataset demonstrate the effectiveness of the proposed framework.
+The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk5oMJlLjAHi0vEgzqEWg).
+
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 
 _last Update: **July, 2019**_
