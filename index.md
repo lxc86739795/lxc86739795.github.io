@@ -68,7 +68,7 @@ IEEE ICME Best Student Paper Award, 2016, for the paper "_Large-scale vehicle re
 ---
 ## Research
 
-### Vehicle Search in Larve-scale Surveillance Networks ([More Details](http://vehiclereid.github.io/VeRi/))
+### Progressive Vehicle Search in Larve-scale Surveillance Networks ([More Details](http://vehiclereid.github.io/VeRi/))
 Compared with person re-identification, which has concentrated attention, vehicle re-identification is an important yet frontier problem in video surveillance and has been neglected by the multimedia and vision communities. 
 Since most existing approaches mainly consider the general vehicle appearance for re-identification while overlooking the distinct vehicle identifier, such as the license number plate, they attain suboptimal performance. 
 In this work, we propose PROVID, a PROgressive Vehicle re-IDentification framework based on deep neural networks. 
@@ -88,7 +88,7 @@ Different from existing approaches, we propose a Braiding Network, named as Brai
 The BraidNet contains a two-stream braid-like architecture.
 The first stream is a semantic abstracting net with a deep yet narrow structure which can learn semantic knowledge by a hierarchy of fully convolution layers to overcome the challenges of diverse person appearance. 
 To capture low-level details of small targets, the detail-preserving net is designed to exploit a shallow yet wide network without down-sampling, which can retain sufficient local structures for small objects. 
-Moreover, we design a group of braiding modules across the two sub-nets, by which complementary information can be exchanged during end-to-end training. 
+Moreover, we design a group of braiding modules across the two sub-nets, by which complementary information can be exchanged during end-to-end training. 
 Besides, in the end of BraidNet, a Pairwise Hard Region Embedding strategy is propose to eliminate the semantic ambiguity of different body parts and clothing. 
 Extensive experiments show that the proposed BraidNet achieves better performance than the state-of-the-art methods for fine-grained human parsing.
 
