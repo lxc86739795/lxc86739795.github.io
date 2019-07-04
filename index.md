@@ -25,7 +25,7 @@ _PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. 
 _Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019. (Accepted)
 
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
-_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018)
+_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018) (**TMM Multimedia Prize Paper Award 2019**)
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
 _A Progressive Vehicle Search System for Video Surveillance Networks_. BigMM 2018: 1-7
@@ -43,7 +43,7 @@ _A discriminative null space based deep learning approach for person re-identifi
 _A Deep Learning-Based Approach to Progressive Vehicle Re-identification for Urban Surveillance_. ECCV (2) 2016: 869-884
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Huiyuan Fu:
-_Large-scale vehicle re-identification in urban surveillance videos_. ICME 2016: 1-6
+_Large-scale vehicle re-identification in urban surveillance videos_. ICME 2016: 1-6 (**Best Student Paper Award**)
 
 - **Xinchen Liu**, Huadong Ma, Huiyuan Fu, Mo Zhou:
 _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_. ICDSC 2014: 26:1-26:6
@@ -54,6 +54,9 @@ Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, ACM TOMM, IoTJ, MTA
 Conference Reviewer: CVPR, ACM MM, ICME, ICASSP, ICIP, ...
 
 ## Awards and Honors
+IEEE TMM Multimedia Prize Paper Award, 2019, "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
+CVPR 2019 LIP Challenge, Track 3 Multi-Person Human Parsing, 2nd Award
+CVPR 2018 LIP Challenge, Track 1 Single-Person Human Parsing, 2nd Award
 IEEE ICME Best Student Paper Award, 2016, "_Large-scale vehicle re-identification in urban surveillance videos_"
 
 ## Datesets
