@@ -13,7 +13,7 @@ My research interests include multimedia computing, computer vision, and their a
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
-_BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACMMM 2019. (Accepted)
+_BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019. (Accepted)
 
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
 _Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019.
