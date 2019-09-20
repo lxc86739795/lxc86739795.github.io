@@ -7,7 +7,7 @@ My supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?
 My research interests include multimedia computing, computer vision, and their applications in retail.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
-Please directly send your CV to my email if you are intered in! :D**
+Please directly send your CV to my email if you are interested in the positions! :D**
 
 * Email: liuxinchen1 at jd dot com
 
