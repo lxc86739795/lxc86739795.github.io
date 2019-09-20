@@ -6,6 +6,9 @@ I received my Ph. D. degree in computer science in Beijing Key Lab of Intelligen
 My supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?p=2_4_266). 
 My research interests include multimedia computing, computer vision, and their applications in retail.
 
+**We am recruiting self-motivated M.S./Ph.D. interns in computer vision, deep learning, and multimedia.
+Please directly send your CV to my email if you are intered in! :D**
+
 * Email: liuxinchen1 at jd dot com
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
