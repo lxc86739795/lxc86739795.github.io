@@ -14,6 +14,12 @@ Please directly send your CV to my email if you are interested in the positions!
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ---
+## Recent News
+- October 22, 2019, one paper (Paper ID: P1C-10) will be presented at ACM Multimedia 2019, Nice, France.
+- July, 2019, one paper were presented at ICME 2019, Shanghai, China.
+- June, 2019, one paper were presented at CVPR 2019, Long Beach, USA.
+
+---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 ### 2019
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
@@ -56,7 +62,7 @@ _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_
 ## Activities
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, ACM TOMM, IoTJ, MTAP, ...
 
-Conference Reviewer: CVPR, ACM MM, ICME, ICASSP, ICIP, ...
+Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
 
 ---
 ## Awards and Honors
