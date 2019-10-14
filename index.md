@@ -16,7 +16,7 @@ Please directly send your CV to my email if you are interested in the positions!
 ---
 ## Recent News
 - October 22, 2019, one paper (Paper ID: P1C-10) will be presented at ACM Multimedia 2019, Nice, France.
-- July, 2019, our paper, "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_" on IEEE Trans. Multimedia 20(3): 645-658, (2018), was awarded the TMM Multimedia Prize Paper Award 2019. Thanks to Dr. Wu Liu, Dr Tao Mei, and Prof. Huadong Ma!
+- July, 2019, our paper, "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_" on IEEE Trans. Multimedia 20(3): 645-658, (2018), was awarded the TMM Multimedia Prize Paper Award 2019. Thanks to Dr. Wu Liu, Dr. Tao Mei, and Prof. Huadong Ma!
 - July, 2019, one paper was presented at ICME 2019, Shanghai, China.
 - June, 2019, one paper was presented at CVPR 2019, Long Beach, USA.
 
