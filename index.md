@@ -121,4 +121,4 @@ The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_last Update: **September, 2019**_
+_last Update: **October, 2019**_
