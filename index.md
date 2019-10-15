@@ -102,7 +102,9 @@ Moreover, we design a group of braiding modules across the two sub-nets, by whic
 Besides, in the end of BraidNet, a Pairwise Hard Region Embedding strategy is propose to eliminate the semantic ambiguity of different body parts and clothing. 
 Extensive experiments show that the proposed BraidNet achieves better performance than the state-of-the-art methods for fine-grained human parsing.
 
-  ![Image](./images/BraidNet1_400.png)    ![Image](./images/BraidNet2_400.png)
+Try Human Parsing Online API at [JD Neuhub](http://neuhub.jd.com/ai/api/image/humanParsing).
+
+&ensp;![Image](./images/BraidNet1_400.png)&ensp;&ensp;&ensp;![Image](./images/BraidNet2_400.png)
 
 ---
 ### Social Relation Recognition 
