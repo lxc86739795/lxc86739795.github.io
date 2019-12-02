@@ -68,7 +68,7 @@ Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
 
 ---
 ## Awards and Honors
-Outstanding Doctoral Dissertation Award of China Society of Image and Graphics, 2019
+Outstanding Doctoral Dissertation Award of China Society of Image and Graphics, 2019, for my Ph. D. thesis "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_"
 
 IEEE TMM Multimedia Prize Paper Award, 2019, for the paper "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
 
