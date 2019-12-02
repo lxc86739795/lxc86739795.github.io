@@ -107,7 +107,7 @@ Extensive experiments show that the proposed BraidNet achieves better performanc
 
 Try Human Parsing Online API at [JD Neuhub](http://neuhub.jd.com/ai/api/image/humanParsing).
 
-![Image](./images/BraidNet1_400.png)&ensp;&ensp;![Image](./images/BraidNet2_400.png)
+![Image](./images/BraidNet1_400.png)![Image](./images/BraidNet2_400.png)
 
 ---
 ### Social Relation Recognition 
