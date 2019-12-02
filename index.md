@@ -15,6 +15,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- November, 2019, my Ph. D. Thesis, "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_", was awarded as the Outstanding Doctoral Dissertation Award of China Society of Image and Graphics (中国图象图形学会优秀博士学位论文). [NEWS](http://www.csig.org.cn/detail/2880) [PDF](./papers/thesis_lxc.pdf)
 - October 22, 2019, one paper (Paper ID: P1C-10) will be presented at ACM Multimedia 2019, Nice, France.
 - July, 2019, our paper, "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_" on IEEE Trans. Multimedia 20(3): 645-658, (2018), was awarded the TMM Multimedia Prize Paper Award 2019. Thanks to Dr. Wu Liu, Dr. Tao Mei, and Prof. Huadong Ma!
 - July, 2019, one paper was presented at ICME 2019, Shanghai, China.
@@ -24,16 +25,16 @@ Please directly send your CV to my email if you are interested in the positions!
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 ### 2019
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
-_BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019. (Accepted) [PDF](./papers/2019_ACMMM_BraidNet.pdf)
+_BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019: 338-346 [PDF](./papers/2019_ACMMM_BraidNet.pdf)
 
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
-_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019. [PDF](./papers/2019_CVPR_ViSR.pdf)
+_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019: 3566-3574. [PDF](./papers/2019_CVPR_ViSR.pdf)
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
 _PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. Comput. Sci. Technol. 34(3): 634-644 (2019) [PDF](./papers/2019_JCST_PVSS.pdf)
 
 - Meng Zhang, **Xinchen Liu**, Wu Liu, Anfu Zhou, Huadong Ma, Tao Mei:
-_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019. (Accepted) [PDF](./papers/2019_ICME_MGR.pdf)
+_Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019: 1618-1623 [PDF](./papers/2019_ICME_MGR.pdf)
 ### 2018
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
 _PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018) (**TMM Multimedia Prize Paper Award 2019**) [PDF](./papers/2018_TMM_PROVID.pdf)
@@ -67,6 +68,8 @@ Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
 
 ---
 ## Awards and Honors
+Outstanding Doctoral Dissertation Award of China Society of Image and Graphics, 2019
+
 IEEE TMM Multimedia Prize Paper Award, 2019, for the paper "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
 
 CVPR 2019 LIP Challenge, Track 3 Multi-Person Human Parsing, 2nd Award
@@ -123,4 +126,4 @@ The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_last Update: **October, 2019**_
+_Last Update: **December, 2019**_
