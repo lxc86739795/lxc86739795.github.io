@@ -9,7 +9,7 @@ My research interests include multimedia computing, computer vision, and their a
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
 Please directly send your CV to my email if you are interested in the positions! :D**
 
-* Email: liuxinchen1 at jd dot com
+* Email: ![Image](./images/email.png)
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
