@@ -63,7 +63,7 @@ _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_
 
 ---
 ## Activities
-Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, ACM TOMM, IoTJ, MTAP, ...
+Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TITS, IEEE TMC, ACM TOMM, IoTJ, MTAP, ...
 
 Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
 
@@ -72,6 +72,8 @@ Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
 Outstanding Doctoral Dissertation Award of China Society of Image and Graphics, 2019, for my Ph. D. thesis "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_"
 
 IEEE TMM Multimedia Prize Paper Award, 2019, for the paper "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
+
+ICME 2019, Best Reviewer Award
 
 CVPR 2019 LIP Challenge, Track 3 Multi-Person Human Parsing, 2nd Award
 
@@ -127,4 +129,4 @@ The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **December, 2019**_
+_Last Update: **January, 2020**_
