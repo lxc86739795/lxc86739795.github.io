@@ -125,7 +125,7 @@ For the spatial representation, we not only adopt a temporal segment network to 
 For the temporal domain, we propose a Pyramid Graph Convolutional Network to perform temporal reasoning with multi-scale receptive fields, which can obtain both long-term and short-term storylines in videos. 
 By this means, MSTR can comprehensively explore the multi-scale actions and story-lines in spatial-temporal dimensions for social relation reasoning in videos. 
 Extensive experiments on a new large-scale Video Social Relation dataset demonstrate the effectiveness of the proposed framework.
-The dataset can be download from [BaiduPan (~57GB)](https://pan.baidu.com/s/1Rnk5oMJlLjAHi0vEgzqEWg).
+The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https://pan.baidu.com/s/1zeH2qeZZVRu__Kg-M5hJuw).
 
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
