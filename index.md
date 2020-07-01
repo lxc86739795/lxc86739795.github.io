@@ -2,7 +2,7 @@
 
 ## About Me
 Xinchen Liu (刘鑫辰) is currently a researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
-He received my Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
+He received the Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
 His supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?p=2_4_266). 
 His research interests include multimedia computing, computer vision, and their applications in retail.
 
