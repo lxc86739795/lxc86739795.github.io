@@ -1,10 +1,10 @@
 ![Image](./images/photo1_240.jpg)
 
 ## About Me
-I am currently a researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
-I received my Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in 2018. 
-My supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?p=2_4_266). 
-My research interests include multimedia computing, computer vision, and their applications in retail.
+Xinchen Liu (刘鑫辰) is currently a researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
+He received my Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
+His supervisor is Prof. [Huadong Ma](https://int.bupt.edu.cn/content/content.php?p=2_4_266). 
+His research interests include multimedia computing, computer vision, and their applications in retail.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
 Please directly send your CV to my email if you are interested in the positions! :D**
@@ -25,6 +25,12 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
+### 2020
+- Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
+_FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2006.02631 (2020) [ARXIV](https://arxiv.org/abs/2006.02631)
+
+- Qi Wang, **Xinchen Liu**, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei:
+_MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Image Processing (2020) [LINK](https://ieeexplore.ieee.org/document/9127791)
 ### 2019
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
 _BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019: 338-346 [PDF](./papers/2019_ACMMM_BraidNet.pdf)
@@ -61,6 +67,10 @@ _Large-scale vehicle re-identification in urban surveillance videos_. ICME 2016:
 ### Before 2015
 - **Xinchen Liu**, Huadong Ma, Huiyuan Fu, Mo Zhou:
 _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_. ICDSC 2014: 26:1-26:6
+
+---
+## Talks
+June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图象图形学学术会议，优秀博士与青年学者论坛), "Large-scale Vehicle Search in Smart City (智慧城市中的车辆搜索)" (In Chinese). [SLIDES](./papers/NCIG2020_VehicleReID_XinchenLiu.pdf)
 
 ---
 ## Activities
@@ -130,4 +140,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **June, 2020**_
+_Last Update: **July, 2020**_
