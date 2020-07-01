@@ -15,6 +15,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- July, 2020, one paper was published on IEEE Transactions on Image Processing [LINK](https://ieeexplore.ieee.org/document/9127791).
 - June, 2020, our team presents **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [paper](https://arxiv.org/abs/2006.02631) and [repo](https://github.com/JDAI-CV/fast-reid) for more details.
 - December, 2019, we make a perfromance list of recent vehicle Re-Id methods on the VeRi dataset. We also apply a strong baseline model for Re-Id on six vehicle Re-Id datasets. Please refer to [LINK](https://github.com/JDAI-CV/VeRidataset) and the strong baseline model [CODE](https://github.com/JDAI-CV/fast-reid).
 - November, 2019, my Ph. D. Thesis, "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_", was awarded as the Outstanding Doctoral Dissertation Award of China Society of Image and Graphics (中国图象图形学会优秀博士学位论文). [NEWS](http://www.csig.org.cn/detail/2880) [PDF](./papers/thesis_lxc.pdf)
@@ -30,7 +31,7 @@ Please directly send your CV to my email if you are interested in the positions!
 _FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2006.02631 (2020) [ARXIV](https://arxiv.org/abs/2006.02631)
 
 - Qi Wang, **Xinchen Liu**, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei:
-_MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Image Processing (2020) [LINK](https://ieeexplore.ieee.org/document/9127791)
+_MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Image Process. (2020) [LINK](https://ieeexplore.ieee.org/document/9127791)
 ### 2019
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
 _BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019: 338-346 [PDF](./papers/2019_ACMMM_BraidNet.pdf)
