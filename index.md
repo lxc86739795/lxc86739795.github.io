@@ -109,6 +109,18 @@ Extensive experiments on the VeRi dataset demonstrate both the accuracy and effi
 &ensp;&ensp;&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;&ensp;![Image](./images/VeRi2_240.png)
 
 ---
+### Multi-grained Vehicle Parsing ([More Details](./MVP.md))
+We present a novel large-scale dataset, Multi-grained Vehicle Parsing (MVP), for semantic analysis of vehicles in the wild, which has several featured properties.
+First of all, the MVP contains 24,000 vehicle images captured in read-world surveillance scenes, which makes it more scalable than existing datasets.
+Moreover, for different requirements, we annotate the vehicle images with pixel-level part masks in two granularities, i.e., the coarse annotations of ten classes and the fine annotations of 59 classes.
+The former can be applied to object-level applications such as vehicle Re-Id, fine-grained classification, and pose estimation, while the latter can be explored for high-quality image generation and content manipulation.
+Furthermore, the images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
+In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
+The dataset can be download from [BaiduPan (~200MB, download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
+
+![Image](./images/MVP_dataset.jpg)
+
+---
 ### Fine-grained Human Parsing
 This paper focuses on fine-grained human parsing in images. 
 This is a very challenging task due to the diverse person appearance, semantic ambiguity of different body parts and clothing, and extremely small parsing targets. 
