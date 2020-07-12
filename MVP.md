@@ -16,11 +16,11 @@ The statistics of the dataset are as follows:
 - The images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
 In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
 
+![Image](./images/MVP_dataset.jpg)
 The vehicle images are sampled from three public datasets for vehicle re-identification, 
 i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1], 
 [AICITY19-ReID](https://www.aicitychallenge.org/) [2], and 
 [VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild) [3].
-![Image](./images/MVP_dataset.jpg)
 Our MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [BaiduPan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
 
 _The original vehicle images should be obtained from the original owners of the three datasets._
