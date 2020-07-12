@@ -12,7 +12,9 @@ The statistics of the dataset are as follows:
 | MVP-coarse | 10 (9 parts + background)            |   21000        |
 | MVP-fine   | 59 (58 parts + background)           |   3000         |
 
-Our MVP dataset only provide the vehicle parsing annotation. 
+![Image](./images/MVP_dataset.jpg)
+Our MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [BaiduPan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
+
 The original vehicle images should be obtained from the original owners of the three datasets.
 
 # Structure
