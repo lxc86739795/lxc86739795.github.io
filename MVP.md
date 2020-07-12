@@ -1,10 +1,11 @@
 # Introduction
-The Multi-grained Vehicle Parsing dataset, named as MVP, is a large-scale image dataset for vehicle part segmentation, i.e., vehicle parsing. 
-It contains two parts: MVP-coarse and MVP-fine. 
-The vehicle images are sampled from three public datasets for vehicle re-identification, 
-i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1], 
-[AICITY19-ReID](https://www.aicitychallenge.org/) [2], and 
-[VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild) [3].
+
+We present a novel large-scale dataset, Multi-grained Vehicle Parsing (MVP), for semantic analysis of vehicles in the wild, which has several featured properties.
+
+- The MVP contains 24,000 vehicle images captured in read-world surveillance scenes, which makes it more scalable for real applications.
+
+- For different requirements, we annotate the vehicle images with pixel-level part masks in two granularities, i.e., the coarse annotations of ten classes and the fine annotations of 59 classes.
+The former can be applied to object-level applications such as vehicle Re-Id, fine-grained classification, and pose estimation, while the latter can be explored for high-quality image generation and content manipulation.
 The statistics of the dataset are as follows:
 
 | Subset     | Class Number  |  Image Number  |
@@ -12,10 +13,17 @@ The statistics of the dataset are as follows:
 | MVP-coarse | 10 (9 parts + background)            |   21000        |
 | MVP-fine   | 59 (58 parts + background)           |   3000         |
 
+- The images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
+In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
+
+The vehicle images are sampled from three public datasets for vehicle re-identification, 
+i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1], 
+[AICITY19-ReID](https://www.aicitychallenge.org/) [2], and 
+[VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild) [3].
 ![Image](./images/MVP_dataset.jpg)
 Our MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [BaiduPan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
 
-The original vehicle images should be obtained from the original owners of the three datasets.
+_The original vehicle images should be obtained from the original owners of the three datasets._
 
 # Structure
 The structure of the directory is organized as follows:
