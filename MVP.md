@@ -42,8 +42,8 @@ The structure of the directory is organized as follows:
 
 ## Coarse Annotation
 
-| Mask Index |  Vehicle Parts    | Palette RGB  |
-|:----------:| ------------- |:---------------:|
+|Mask Index|Vehicle Parts| Palette RGB|
+|:--------:|:-----------:|:----------:|
 |0 | background|[0, 0, 0]|
 |1 | Roof | [127, 127, 255]|
 |2 | Front-windshield |[255, 255, 127]|
@@ -58,8 +58,8 @@ The structure of the directory is organized as follows:
 
 ## Fine Annotation
 
-| Mask Index |  Vehicle Parts    | Palette RGB  |
-|:----------:| ------------- |:---------------:|
+|Mask Index|Vehicle Parts|Palette RGB|
+|:--------:|:-----------:|:---------:|
 |00|background|[0, 0, 0]|
 |01|left-head-light|[95, 95, 95]
 |02|left-fog-light|[95, 95, 159]
