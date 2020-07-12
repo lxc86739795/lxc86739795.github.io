@@ -2,9 +2,9 @@
 
 We present a novel large-scale dataset, Multi-grained Vehicle Parsing (MVP), for semantic analysis of vehicles in the wild, which has several featured properties.
 
-- The MVP contains 24,000 vehicle images captured in read-world surveillance scenes, which makes it more scalable for real applications.
+* The MVP contains 24,000 vehicle images captured in read-world surveillance scenes, which makes it more scalable for real applications.
 
-- For different requirements, we annotate the vehicle images with pixel-level part masks in two granularities, i.e., the coarse annotations of ten classes and the fine annotations of 59 classes.
+* For different requirements, we annotate the vehicle images with pixel-level part masks in two granularities, i.e., the coarse annotations of ten classes and the fine annotations of 59 classes.
 The former can be applied to object-level applications such as vehicle Re-Id, fine-grained classification, and pose estimation, while the latter can be explored for high-quality image generation and content manipulation.
 The statistics of the dataset are as follows:
 
@@ -13,7 +13,7 @@ The statistics of the dataset are as follows:
 | MVP-coarse | 10 (9 parts + background)            |   21000        |
 | MVP-fine   | 59 (58 parts + background)           |   3000         |
 
-- The images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
+* The images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
 In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
 
 ![Image](./images/MVP_dataset.jpg)
@@ -41,6 +41,7 @@ The structure of the directory is organized as follows:
 # Palette
 
 ## Coarse Annotation
+
 | Mask Index |  Vehicle Parts    | Palette RGB  |
 |:----------:| ------------- |:---------------:|
 |0 | background|[0, 0, 0]|
@@ -56,6 +57,7 @@ The structure of the directory is organized as follows:
 
 
 ## Fine Annotation
+
 | Mask Index |  Vehicle Parts    | Palette RGB  |
 |:----------:| ------------- |:---------------:|
 |00|background|[0, 0, 0]|
