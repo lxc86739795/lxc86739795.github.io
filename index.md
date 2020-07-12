@@ -15,6 +15,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- Jyly, 2020, we release a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more datails, please refer to [MVP](MVP.md).
 - July, 2020, one paper was published on IEEE Transactions on Image Processing [LINK](https://ieeexplore.ieee.org/document/9127791).
 - June, 2020, our team presents **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [paper](https://arxiv.org/abs/2006.02631) and [repo](https://github.com/JDAI-CV/fast-reid) for more details.
 - December, 2019, we make a perfromance list of recent vehicle Re-Id methods on the VeRi dataset. We also apply a strong baseline model for Re-Id on six vehicle Re-Id datasets. Please refer to [LINK](https://github.com/JDAI-CV/VeRidataset) and the strong baseline model [CODE](https://github.com/JDAI-CV/fast-reid).
