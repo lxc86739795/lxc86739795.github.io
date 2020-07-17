@@ -27,6 +27,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
+
 ### 2020
 - Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
 _FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2006.02631 (2020) [ARXIV](https://arxiv.org/abs/2006.02631)
