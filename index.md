@@ -34,6 +34,7 @@ _FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2
 
 - Qi Wang, **Xinchen Liu**, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei:
 _MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Image Process. (2020) [LINK](https://ieeexplore.ieee.org/document/9127791)
+
 ### 2019
 - **Xinchen Liu**, Meng Zhang, Wu Liu, Jingkuan Song, Tao Mei:
 _BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019: 338-346 [PDF](./papers/2019_ACMMM_BraidNet.pdf)
@@ -46,6 +47,7 @@ _PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. 
 
 - Meng Zhang, **Xinchen Liu**, Wu Liu, Anfu Zhou, Huadong Ma, Tao Mei:
 _Multi-Granularity Reasoning for Social Relation Recognition from Images_. ICME 2019: 1618-1623 [PDF](./papers/2019_ICME_MGR.pdf)
+
 ### 2018
 - **Xinchen Liu**, Wu Liu, Tao Mei, Huadong Ma:
 _PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_. IEEE Trans. Multimedia 20(3): 645-658, (2018) (**TMM Multimedia Prize Paper Award 2019**) [PDF](./papers/2018_TMM_PROVID.pdf)
@@ -55,9 +57,11 @@ _A Progressive Vehicle Search System for Video Surveillance Networks_. BigMM 201
 
 - Wenhui Gao, **Xinchen Liu**, Huadong Ma, Yanan Li, Liang Liu:
 _MMH: Multi-Modal Hash for Instant Mobile Video Search_. MIPR 2018: 57-62
+
 ### 2017
 - Wu Liu, **Xinchen Liu**, Huadong Ma, Peng Cheng:
 _Beyond Human-level License Plate Super-resolution with Progressive Vehicle Search and Domain Priori GAN_. ACM Multimedia 2017: 1618-1626 [PDF](./papers/2017_ACMMM_DPGAN.pdf)
+
 ### 2016
 - Shuangqun Li, **Xinchen Liu**, Wu Liu, Huadong Ma, Haitao Zhang:
 _A discriminative null space based deep learning approach for person re-identification_. CCIS 2016: 480-484
