@@ -38,7 +38,7 @@ _Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-ide
 _FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2006.02631 (2020) [ARXIV](https://arxiv.org/abs/2006.02631)
 
 - Qi Wang, **Xinchen Liu**, Wu Liu, Anan Liu, Wenyin Liu, Tao Mei:
-_MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Image Process. (2020) [LINK](https://ieeexplore.ieee.org/document/9127791)
+_MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Image Process. 29: 7549-7564 (2020) [LINK](https://ieeexplore.ieee.org/document/9127791)
 
 ### 2019
 
