@@ -31,7 +31,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ### 2020
 
-- **Xinchen Liu**, Wu Liu, Jikai Zheng, Chenggang Yan, Tao Mei:
+- **Xinchen Liu**, Wu Liu, Jinkai Zheng, Chenggang Yan, Tao Mei:
 _Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification_. ACM MM 2020 [PDF](./papers/2020_ACMMM_PCRNet.pdf)
 
 - Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
