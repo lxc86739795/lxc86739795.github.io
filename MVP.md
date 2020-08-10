@@ -1,4 +1,4 @@
-# Introduction
+# Introduction to the MVP Dataset
 
 We present a novel large-scale dataset, Multi-grained Vehicle Parsing (MVP), for semantic analysis of vehicles in the wild, which has several featured properties.
 
