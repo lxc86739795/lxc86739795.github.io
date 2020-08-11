@@ -15,7 +15,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
-- August, 2020, one paper on vehicle re-idenrification with vehicle parsing is accpepted by ACM Multimedia, 2020.
+- August, 2020, one regular paper and one demo paper are accpepted by ACM Multimedia, 2020.
 - July, 2020, we release a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more datails, please refer to [MVP](MVP.md).
 - July, 2020, one paper was published on IEEE Transactions on Image Processing [LINK](https://ieeexplore.ieee.org/document/9127791).
 - June, 2020, our team presented **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [paper](https://arxiv.org/abs/2006.02631) and [repo](https://github.com/JDAI-CV/fast-reid) for more details.
@@ -33,6 +33,9 @@ Please directly send your CV to my email if you are interested in the positions!
 
 - **Xinchen Liu**, Wu Liu, Jinkai Zheng, Chenggang Yan, Tao Mei:
 _Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification_. ACM MM 2020 [PDF](./papers/2020_ACMMM_PCRNet.pdf)
+
+- Xiaodong Chen, Wu Liu, **Xinchen Liu**, Yongdong Zhang, Tao Mei:
+_A Cross-modality and Progressive Person Search System_. ACM MM Demo 2020. [PDF](./papers/2020_ACMMM_CPPS.pdf)
 
 - Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
 _FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2006.02631 (2020) [ARXIV](https://arxiv.org/abs/2006.02631)
@@ -92,9 +95,11 @@ June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图�
 
 ---
 ## Activities
-Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, IoTJ, MTAP, ...
+Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, IoTJ, Neurocomputing, MTAP, ...
 
 Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
+
+Membership: IEEE/ACM/CCF/CSIG Member.
 
 ---
 ## Awards and Honors
