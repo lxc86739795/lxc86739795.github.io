@@ -21,9 +21,18 @@ The vehicle images are sampled from three public datasets for vehicle re-identif
 i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1], 
 [AICITY19-ReID](https://www.aicitychallenge.org/) [2], and 
 [VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild) [3].
-Our MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [BaiduPan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
-
 _The original vehicle images should be obtained from the original owners of the three datasets._
+
+To obtain the MVP dataset, please contact [Xinchen Liu](lxc86739795.github.io) by email to provide your name and affiliation.
+If you use our dataset, please kindly cite our paper:
+```BibTeX
+@inproceedings{liu2020pcrnet,
+  title={Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification},
+  author={Liu, Xinchen and Liu, Wu and Zheng, Jinkai and Yan, Chenggang and Mei, Tao},
+  booktitle={ACM International Conference on Multimedia},
+  year={2020}
+}
+```
 
 # Structure
 The structure of the directory is organized as follows:
