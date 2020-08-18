@@ -137,7 +137,7 @@ Moreover, for different requirements, we annotate the vehicle images with pixel-
 The former can be applied to object-level applications such as vehicle Re-Id, fine-grained classification, and pose estimation, while the latter can be explored for high-quality image generation and content manipulation.
 Furthermore, the images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
 In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
-The dataset can be download from [BaiduPan (~200MB, download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
+_To obtain the MVP dataset, please contact me with your name and affilication._
 
 ![Image](./images/MVP_dataset.jpg)
 
