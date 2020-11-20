@@ -32,7 +32,7 @@ Please directly send your CV to my email if you are interested in the positions!
 ### 2020
 
 - **Xinchen Liu**, Wu Liu, Jinkai Zheng, Chenggang Yan, Tao Mei:
-_Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification_. ACM MM 2020 [PDF](./papers/2020_ACMMM_PCRNet.pdf)
+_Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification_. ACM MM 2020 [PDF](./papers/2020_ACMMM_PCRNet.pdf) [CODE](https://github.com/lxc86739795/vehicle_reid_by_parsing)
 
 - Xiaodong Chen, Wu Liu, **Xinchen Liu**, Yongdong Zhang, Tao Mei:
 _A Cross-modality and Progressive Person Search System_. ACM MM Demo 2020. [PDF](./papers/2020_ACMMM_CPPS.pdf)
