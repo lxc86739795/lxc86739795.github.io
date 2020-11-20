@@ -15,6 +15,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- November, 2020, the code for the paper, "Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification, ACM MM, 2020", has been released, please refer to [code](https://github.com/lxc86739795/vehicle_reid_by_parsing).
 - August, 2020, one regular paper and one demo paper are accpepted by ACM Multimedia, 2020.
 - July, 2020, we release a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more datails, please refer to [MVP](MVP.md).
 - July, 2020, one paper was published on IEEE Transactions on Image Processing [LINK](https://ieeexplore.ieee.org/document/9127791).
@@ -175,4 +176,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **October, 2020**_
+_Last Update: **November, 2020**_
