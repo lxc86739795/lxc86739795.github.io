@@ -16,12 +16,12 @@ Please directly send your CV to my email if you are interested in the positions!
 ---
 ## Recent News
 - November, 2020, the codebase for human parsing and vehicle parsing in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
-https://github.com/lxc86739795/parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for human, [MVP](./MVP.html) for vehicle).
+https://github.com/lxc86739795/parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for human, [MVP](MVP.html) for vehicle).
 - November, 2020, the code for the paper, "Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification, ACM MM, 2020", has been released, please refer to [CODE](https://github.com/lxc86739795/vehicle_reid_by_parsing).
 - August, 2020, one regular paper and one demo paper are accpepted by ACM Multimedia, 2020.
 - July, 2020, we release a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more datails, please refer to [MVP](MVP.md).
 - July, 2020, one paper was published on IEEE Transactions on Image Processing [LINK](https://ieeexplore.ieee.org/document/9127791).
-- June, 2020, our team presented **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [paper](https://arxiv.org/abs/2006.02631) and [repo](https://github.com/JDAI-CV/fast-reid) for more details.
+- June, 2020, our team presented **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [PAPER](https://arxiv.org/abs/2006.02631) and [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
 - December, 2019, we make a perfromance list of recent vehicle Re-Id methods on the VeRi dataset. We also apply a strong baseline model for Re-Id on six vehicle Re-Id datasets. Please refer to [LINK](https://github.com/JDAI-CV/VeRidataset) and the strong baseline model [CODE](https://github.com/JDAI-CV/fast-reid).
 - November, 2019, my Ph. D. Thesis, "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_", was awarded as the Outstanding Doctoral Dissertation Award of China Society of Image and Graphics (中国图象图形学学会优秀博士学位论文). [NEWS](http://www.csig.org.cn/detail/2880) [PDF](./papers/thesis_lxc.pdf)
 - October 22, 2019, one paper (Paper ID: P1C-10) will be presented at ACM Multimedia 2019, Nice, France.
