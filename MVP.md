@@ -17,11 +17,16 @@ The statistics of the dataset are as follows:
 In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
 
 ![Image](./images/MVP_dataset.jpg)
+
+![Image](./images/MVP_dataset.jpg)
+
+# How to Get It
+
 The vehicle images are sampled from three public datasets for vehicle re-identification, 
 i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1], 
 [AICITY19-ReID](https://www.aicitychallenge.org/) [2], and 
 [VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild) [3].
-_The original vehicle images should be obtained from the original owners of the three datasets._
+**The original vehicle images should be obtained from the original owners of the three datasets.**
 
 The MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [BaiduPan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
 If you use our dataset, please kindly cite our paper:
@@ -135,3 +140,8 @@ The structure of the directory is organized as follows:
 [2] Zheng Tang, Milind Naphade, Ming-Yu Liu, Xiaodong Yang, Stan Birchfield, Shuo Wang, Ratnesh Kumar, David C. Anastasiu, Jenq-Neng Hwang: CityFlow: A City-Scale Benchmark for Multi-Target Multi-Camera Vehicle Tracking and Re-Identification. CVPR 2019: 8797-8806
 
 [3] Yihang Lou, Yan Bai, Jun Liu, Shiqi Wang, Lingyu Duan: VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild. CVPR 2019: 3235-3243
+
+# Acknowledgement
+This dataset is built with the support of Prof. Chenggang Yan and his students at Hangzhouy Dianzi University.
+
+This dataset is named MVP with 24K images to pay tribute to the great basketball player [Kobe Bryant](https://en.wikipedia.org/wiki/Kobe_Bryant).
