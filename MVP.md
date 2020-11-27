@@ -23,7 +23,7 @@ i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1],
 [VeRi-Wild](https://github.com/PKU-IMRE/VERI-Wild) [3].
 _The original vehicle images should be obtained from the original owners of the three datasets._
 
-To obtain the MVP dataset, please contact [Xinchen Liu](lxc86739795.github.io) by email to provide your name and affiliation.
+The MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [BaiduPan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw).
 If you use our dataset, please kindly cite our paper:
 ```BibTeX
 @inproceedings{liu2020pcrnet,
