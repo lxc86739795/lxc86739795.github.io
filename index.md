@@ -140,7 +140,7 @@ Moreover, for different requirements, we annotate the vehicle images with pixel-
 The former can be applied to object-level applications such as vehicle Re-Id, fine-grained classification, and pose estimation, while the latter can be explored for high-quality image generation and content manipulation.
 Furthermore, the images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
 In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
-_To obtain the MVP dataset, please contact me with your name and affilication._
+A codebase for person and vehicle parsing can be found [HERE](https://github.com/lxc86739795/human_vehicle_parsing_platform).
 
 ![Image](./images/MVP_dataset.jpg)
 
