@@ -1,17 +1,20 @@
-![Image](./images/photo1_240.jpg)
+![Image](./images/photo1_240.jpg) 
 
-## About Me
-Xinchen Liu (刘鑫辰) is currently a researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
-He received the Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
-His supervisor is Prof. [Huadong Ma](https://scs.bupt.edu.cn/info/1009/2214.htm). 
-His research interests include multimedia computing, computer vision, and their applications in retail.
-
-**We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
-Please directly send your CV to my email if you are interested in the positions! :D**
+* Xinchen Liu (刘鑫辰)
 
 * Email: ![Image](./images/email.png)
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
+
+## About Me
+I am currently a Researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
+I received the Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
+My supervisor is Prof. [Huadong Ma](https://scs.bupt.edu.cn/info/1009/2214.htm). 
+My research interests include multimedia computing, computer vision, and their applications in retail.
+
+**We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
+Please directly send your CV to my email if you are interested in the positions! :D**
+
 
 ---
 ## Recent News
@@ -98,7 +101,7 @@ June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图�
 
 ---
 ## Activities
-Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, IoTJ, Neurocomputing, MTAP, ...
+Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, Neurocomputing, MTAP, ...
 
 Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
 
@@ -178,4 +181,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **November, 2020**_
+_Last Update: **January, 2021**_
