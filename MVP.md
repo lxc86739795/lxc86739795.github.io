@@ -142,6 +142,6 @@ The structure of the directory is organized as follows:
 [3] Yihang Lou, Yan Bai, Jun Liu, Shiqi Wang, Lingyu Duan: VERI-Wild: A Large Dataset and a New Method for Vehicle Re-Identification in the Wild. CVPR 2019: 3235-3243
 
 # Acknowledgement
-This dataset is built with the support of Prof. Chenggang Yan and his students at Hangzhouy Dianzi University.
+This dataset is built with the support of Prof. Chenggang Yan and his students at Hangzhou Dianzi University.
 
 This dataset is named MVP with 24K images to pay tribute to the great basketball player [Kobe Bryant](https://en.wikipedia.org/wiki/Kobe_Bryant).
