@@ -18,8 +18,6 @@ In addition, the vehicles have diverse countries, types, brands, models, and col
 
 ![Image](./images/MVP_dataset.jpg)
 
-![Image](./images/MVP_dataset.jpg)
-
 # How to Get It
 
 The vehicle images are sampled from three public datasets for vehicle re-identification, 
