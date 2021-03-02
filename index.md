@@ -7,7 +7,7 @@
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Researcher at JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
+I am currently a Senior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
 I received the Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
 My supervisor is Prof. [Huadong Ma](https://scs.bupt.edu.cn/info/1009/2214.htm). 
 My research interests include multimedia computing, computer vision, and their applications in retail.
@@ -18,6 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- January, 2021, one paper on gait recognition was accepted by IEEE ISCAS. Congratulations to Jinkai Zheng and thanks to our collaborators!
 - December, 2020, our team won the Championship in [NAIC Challenge 2020 AI+Person ReID Track](https://mp.weixin.qq.com/s/iktrS9If12uum0_qQ1MZ1A). Congratulations to our teammates [Xingyu Liao](https://github.com/L1aoXingyu), [Lingxiao He](https://lingxiao-he.github.io/), [Peng Cheng](https://github.com/CPFLAME), and [Guanan Wang](https://wangguanan.github.io/)!
 - November, 2020, the codebase for human parsing and vehicle parsing in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
 https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for human, [MVP](MVP.html) for vehicle).
@@ -36,13 +37,17 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
+### 2021
+- Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
+_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. IEEE ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621)
+
 ### 2020
 
 - **Xinchen Liu**, Wu Liu, Jinkai Zheng, Chenggang Yan, Tao Mei:
-_Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification_. ACM MM 2020 [PDF](./papers/2020_ACMMM_PCRNet.pdf) [CODE](https://github.com/lxc86739795/vehicle_reid_by_parsing)
+_Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification_. ACM MM 2020: 907-915 [PDF](./papers/2020_ACMMM_PCRNet.pdf) [CODE](https://github.com/lxc86739795/vehicle_reid_by_parsing)
 
 - Xiaodong Chen, Wu Liu, **Xinchen Liu**, Yongdong Zhang, Tao Mei:
-_A Cross-modality and Progressive Person Search System_. ACM MM Demo 2020. [PDF](./papers/2020_ACMMM_CPPS.pdf)
+_A Cross-modality and Progressive Person Search System_. ACM MM Demo 2020: 4550-4552 [PDF](./papers/2020_ACMMM_CPPS.pdf)
 
 - Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
 _FastReID: A Pytorch Toolbox for General Instance Re-identification_. CoRR abs/2006.02631 (2020) [ARXIV](https://arxiv.org/abs/2006.02631)
@@ -56,7 +61,7 @@ _MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Ima
 _BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019: 338-346 [PDF](./papers/2019_ACMMM_BraidNet.pdf)
 
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
-_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019: 3566-3574. [PDF](./papers/2019_CVPR_ViSR.pdf)
+_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019: 3566-3574 [PDF](./papers/2019_CVPR_ViSR.pdf)
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
 _PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. Comput. Sci. Technol. 34(3): 634-644 (2019) [PDF](./papers/2019_JCST_PVSS.pdf)
@@ -182,4 +187,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **January, 2021**_
+_Last Update: **March, 2021**_
