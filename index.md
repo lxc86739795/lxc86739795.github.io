@@ -18,7 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
-- January, 2021, one paper on gait recognition was accepted by IEEE ISCAS. Congratulations to Jinkai Zheng and thanks to our collaborators!
+- January, 2021, one paper on gait recognition was accepted by IEEE ISCAS 2021. Congratulations to Jinkai Zheng and thanks to our collaborators!
 - December, 2020, our team won the Championship in [NAIC Challenge 2020 AI+Person ReID Track](https://mp.weixin.qq.com/s/iktrS9If12uum0_qQ1MZ1A). Congratulations to our teammates [Xingyu Liao](https://github.com/L1aoXingyu), [Lingxiao He](https://lingxiao-he.github.io/), [Peng Cheng](https://github.com/CPFLAME), and [Guanan Wang](https://wangguanan.github.io/)!
 - November, 2020, the codebase for human parsing and vehicle parsing in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
 https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for human, [MVP](MVP.html) for vehicle).
