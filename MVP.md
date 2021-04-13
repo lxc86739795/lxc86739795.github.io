@@ -28,6 +28,7 @@ i.e., [VeRi](https://vehiclereid.github.io/VeRi/) [1],
 
 The MVP dataset provides only the vehicle parsing annotation and can be downloaded from: [Baidu Pan (download code: o7l2)](https://pan.baidu.com/s/1T_dWJ0UwV47HZyf4ht_5Nw) or [Google Drive](https://drive.google.com/file/d/1zTaTKCwj5s5DMue0y0TMkJUuH7oa_cmm/view?usp=sharing).
 The code and vehicle parsing models trained on the MVP dataset can be directly used from this [repo](https://github.com/lxc86739795/human_vehicle_parsing_platform).
+The train/val/test splitting files used in our experiments can be found [here](https://github.com/lxc86739795/human_vehicle_parsing_platform/blob/main/split.zip).
 
 If you use our dataset, please kindly cite our paper:
 ```BibTeX
