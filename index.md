@@ -2,7 +2,7 @@
 
 * Xinchen Liu (刘鑫辰)
 
-* Email: ![Image](./images/email.png)
+* Email: ![Image](./images/email.png) or ![Image](./images/email2.png)
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
@@ -187,4 +187,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **March, 2021**_
+_Last Update: **April, 2021**_
