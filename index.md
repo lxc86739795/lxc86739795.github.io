@@ -39,7 +39,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2021
 - Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
-_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. IEEE ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621)
+_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. IEEE ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621) [CODE](https://github.com/JinkaiZheng/TraND)
 
 ### 2020
 
