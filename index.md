@@ -18,7 +18,8 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
-- April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** on ACM Multimedia 2021. [Website](https://hcma2021.github.io/)
+- May, 2021, our team are organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
+- April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2021. Paper submission due: 10 August 2021.[Website](https://hcma2021.github.io/)
 - January, 2021, one paper on gait recognition was accepted as a lecture (oral) presentation by **IEEE ISCAS 2021**. Congratulations to Jinkai Zheng and thanks to our collaborators!
 - December, 2020, our team won the **Championship** in [NAIC Challenge 2020 AI+Person ReID Track](https://mp.weixin.qq.com/s/iktrS9If12uum0_qQ1MZ1A). Congratulations to our teammates [Xingyu Liao](https://github.com/L1aoXingyu), [Lingxiao He](https://lingxiao-he.github.io/), [Peng Cheng](https://github.com/CPFLAME), and [Guanan Wang](https://wangguanan.github.io/)!
 - November, 2020, the codebase for **human parsing and vehicle parsing** in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
@@ -188,4 +189,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **April, 2021**_
+_Last Update: **May, 2021**_
