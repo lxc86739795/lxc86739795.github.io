@@ -18,8 +18,9 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
 - May, 2021, our team are organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
-- April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2021. Paper submission due: 10 August 2021.[Website](https://hcma2021.github.io/)
+- April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2021. Paper submission due: 10 August 2021. [Website](https://hcma2021.github.io/)
 - January, 2021, one paper on gait recognition was accepted as a lecture (oral) presentation by **IEEE ISCAS 2021**. Congratulations to Jinkai Zheng and thanks to our collaborators!
 - December, 2020, our team won the **Championship** in [NAIC Challenge 2020 AI+Person ReID Track](https://mp.weixin.qq.com/s/iktrS9If12uum0_qQ1MZ1A). Congratulations to our teammates [Xingyu Liao](https://github.com/L1aoXingyu), [Lingxiao He](https://lingxiao-he.github.io/), [Peng Cheng](https://github.com/CPFLAME), and [Guanan Wang](https://wangguanan.github.io/)!
 - November, 2020, the codebase for **human parsing and vehicle parsing** in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
@@ -117,6 +118,8 @@ Membership: IEEE/ACM/CCF/CSIG Member.
 
 ---
 ## Awards and Honors
+IEEE CAS MSA-TC Best Paper Award - Honorable Mention, 2021, for the paper "_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_"
+
 Outstanding Doctoral Dissertation Award of China Society of Image and Graphics, 2019, for my Ph. D. thesis "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_"
 
 IEEE TMM Multimedia Prize Paper Award, 2019, for the paper "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
