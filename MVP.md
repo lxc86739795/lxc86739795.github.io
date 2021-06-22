@@ -47,8 +47,8 @@ The structure of the directory is organized as follows:
 | :--------                 | -----        |
 | coarse_annotation         | coarse part annotation files            |
 | coarse_visualization_RGB  | coarse part visualization files         |
-| fine_annotation           | coarse part annotation files            |
-| fine_visualization_RGB    | coarse part visualization files         |
+| fine_annotation           | fine part annotation files            |
+| fine_visualization_RGB    | fine part visualization files         |
 | legend                    | legend files for visualization          |
 | fine_index_list.txt       | each line shows the ['fine-grained annotation index' 'original dataset' 'original image name']|
 | coarse_index_list.txt     | each line shows the ['coarse-grained annotation index' 'original dataset' 'original image name']|
