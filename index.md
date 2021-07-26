@@ -18,6 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**.
 - May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
 - May, 2021, our team are organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
 - April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2021. Paper submission due: 10 August 2021. [Website](https://hcma2021.github.io/)
@@ -26,7 +27,7 @@ Please directly send your CV to my email if you are interested in the positions!
 - November, 2020, the codebase for **human parsing and vehicle parsing** in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
 https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for human, [MVP](MVP.html) for vehicle).
 - November, 2020, the code for the paper, "**Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification**, ACM MM, 2020", has been released, please refer to [CODE](https://github.com/lxc86739795/vehicle_reid_by_parsing).
-- August, 2020, one regular paper and one demo paper are accpepted by ACM Multimedia, 2020.
+- August, 2020, one regular paper and one demo paper are accpepted by **ACM Multimedia, 2020**.
 - July, 2020, we released a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more datails, please refer to [MVP](MVP.md).
 - July, 2020, one paper was published on **IEEE Transactions on Image Processing** [LINK](https://ieeexplore.ieee.org/document/9127791).
 - June, 2020, our team presented **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [PAPER](https://arxiv.org/abs/2006.02631) and [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
@@ -41,8 +42,10 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 ### 2021
+- Xiaodong Chen, **Xinchen Liu**, Wu Liu, Yongdong Zhang, Xiao-Ping Zhang, Tao Mei:
+_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021
 - Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
-_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. IEEE ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621) [CODE](https://github.com/JinkaiZheng/TraND)
+_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621) [CODE](https://github.com/JinkaiZheng/TraND)
 
 ### 2020
 
