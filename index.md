@@ -18,6 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- August, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2021. Paper submission due is extended to **17 August 2021**. Welcome submissions! [Website](https://hcma2021.github.io/)
 - July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**.
 - May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
 - May, 2021, our team are organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
