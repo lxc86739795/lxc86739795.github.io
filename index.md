@@ -44,7 +44,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2021
 - Xiaodong Chen, **Xinchen Liu**, Wu Liu, Yongdong Zhang, Xiao-Ping Zhang, Tao Mei:
-_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021
+_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021 [arXiv](https://arxiv.org/abs/2103.01451)
 - Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
 _TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621) [CODE](https://github.com/JinkaiZheng/TraND)
 
