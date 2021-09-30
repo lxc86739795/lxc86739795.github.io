@@ -2,7 +2,7 @@
 
 * Xinchen Liu (刘鑫辰)
 
-* Email: ![Image](./images/email.png) or ![Image](./images/email2.png)
+* Email: ![Image](./images/email.png) or ![Image](./images/email2.png) *My previous email xinchenliu \[at\] bupt \[dot\] edu \[dot\] cn has been deprecated.
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
@@ -18,6 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- September, 2021, **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** will be held on 20 October 2021 in conjunction with ACM Multimedia 2021. This year we have three invited talks and five paper presentations. More details can be found on the [Website](https://hcma2021.github.io/).
 - August, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2021. Paper submission due is extended to **17 August 2021**. Welcome submissions! [Website](https://hcma2021.github.io/)
 - July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**.
 - May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
