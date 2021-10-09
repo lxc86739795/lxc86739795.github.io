@@ -115,6 +115,10 @@ June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图�
 
 ---
 ## Activities
+Proceedings Co-Chair of ACM Multimedia Asia 2021
+
+Co-chair of HUMA 2021 Workshop at ACM Multimedia 2021
+
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, Neurocomputing, MTAP, ...
 
 Conference Reviewer: CVPR, ACM MM, AAAI, ICME, ICASSP, ICIP, ...
