@@ -18,6 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- October, 2021, our team obtained the **2nd Award** in [ICCV21 DeeperAction Challenge Track 3 - Kinetics-TPS Challenge on Part-level Action Parsing](https://deeperaction.github.io/results/). Congratulations to our teammates [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and [Kun Liu](https://scholar.google.com/citations?user=NMMB7wcAAAAJ&hl=en&oi=ao)! The technical report of our solution can be found [HERE](https://arxiv.org/abs/2110.03368).
 - September, 2021, **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** will be held on 20 October 2021 in conjunction with ACM Multimedia 2021. This year we have three invited talks and five paper presentations. More details can be found on the [Website](https://hcma2021.github.io/).
 - August, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2021. Paper submission due is extended to **17 August 2021**. Welcome submissions! [Website](https://hcma2021.github.io/)
 - July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**.
@@ -127,13 +128,15 @@ Membership: IEEE/ACM/CCF/CSIG Member.
 
 ---
 ## Awards and Honors
+ICCV 2021 DeeperAction Challenge, Track 3 Kinetics-TPS Challenge on Part-level Action Parsing, 2nd Award
+
 IEEE CAS MSA-TC Best Paper Award - Honorable Mention, 2021, for the paper "_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_"
 
 Outstanding Doctoral Dissertation Award of China Society of Image and Graphics, 2019, for my Ph. D. thesis "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_"
 
 IEEE TMM Multimedia Prize Paper Award, 2019, for the paper "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_"
 
-ICME 2019, Best Reviewer Award
+ICME 2019, 2021, Outstanding Reviewer Award
 
 CVPR 2019 LIP Challenge, Track 3 Multi-Person Human Parsing, 2nd Award
 
