@@ -118,9 +118,11 @@ June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图�
 
 ---
 ## Activities
-Proceedings Co-Chair of ACM Multimedia Asia 2021
+Local Session Chair, ACM Multimedia 2021
 
-Co-chair of HUMA 2021 Workshop at ACM Multimedia 2021
+Proceedings Co-Chair, ACM Multimedia Asia 2021
+
+Co-chair, HUMA 2021 Workshop at ACM Multimedia 2021
 
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, Neurocomputing, MTAP, ...
 
@@ -206,4 +208,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **May, 2021**_
+_Last Update: **October, 2021**_
