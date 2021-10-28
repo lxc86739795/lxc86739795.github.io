@@ -48,9 +48,9 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Tao Mei:
 _A Baseline Framework for Part-level Action Parsing and Action Recognition_. CoRR abs/2110.03368 (2021) [arXiv](https://arxiv.org/abs/2110.03368) (**2nd place solution to Kinetics-TPS Track on Part-level Action Parsing in ICCV DeeperAction Challenge 2021**)
 - Xiaodong Chen, **Xinchen Liu**, Wu Liu, Yongdong Zhang, Xiao-Ping Zhang, Tao Mei:
-_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021 [arXiv](https://arxiv.org/abs/2103.01451)
+_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021 [arXiv](https://arxiv.org/abs/2103.01451) [PDF](./papers/2021_AMD.pdf)
 - Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
-_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621) [CODE](https://github.com/JinkaiZheng/TraND) (**IEEE CAS MSA-TC Best Paper Award Honorable Mention**)
+_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [arXiv](https://arxiv.org/abs/2102.04621) [PDF](./papers/2021_TraND.pdf) [CODE](https://github.com/JinkaiZheng/TraND) (**IEEE CAS MSA-TC Best Paper Award Honorable Mention**)
 
 ### 2020
 
