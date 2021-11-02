@@ -72,7 +72,7 @@ _MetaSearch: Incremental Product Search via Deep Meta-learning_. IEEE Trans. Ima
 _BraidNet: Braiding Semantics and Details for Accurate Human Parsing_. ACM MM 2019: 338-346 [PDF](./papers/2019_ACMMM_BraidNet.pdf)
 
 - **Xinchen Liu**, Wu Liu, Meng Zhang, Jingwen Chen, Lianli Gao, Chenggang Yan, Tao Mei:
-_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019: 3566-3574 [PDF](./papers/2019_CVPR_ViSR.pdf)
+_Social Relation Recognition from Videos via Multi-scale Spatial-Temporal Reasoning_. CVPR 2019: 3566-3574 [PDF](./papers/2019_CVPR_ViSR.pdf) [CODE](https://github.com/mxtx0509/MSRT)
 
 - **Xinchen Liu**, Wu Liu, Huadong Ma, Shuangqun Li:
 _PVSS: A Progressive Vehicle Search System for Video Surveillance Networks_. J. Comput. Sci. Technol. 34(3): 634-644 (2019) [PDF](./papers/2019_JCST_PVSS.pdf)
