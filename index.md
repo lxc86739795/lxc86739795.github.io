@@ -45,6 +45,8 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 ### 2021
+- Wu Liu, **Xinchen Liu**, Jingkuan Song, Dingwen Zhang, Wenbing Huang, Junbo Guo, John Smith:
+_HUMA'21: 2nd International Workshop on Human-centric Multimedia Analysis_. ACM Multimedia 2021: 5690-5691
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Tao Mei:
 _A Baseline Framework for Part-level Action Parsing and Action Recognition_. CoRR abs/2110.03368 (2021) [arXiv](https://arxiv.org/abs/2110.03368) (**2nd place solution to Kinetics-TPS Track on Part-level Action Parsing in ICCV DeeperAction Challenge 2021**)
 - Xiaodong Chen, **Xinchen Liu**, Wu Liu, Yongdong Zhang, Xiao-Ping Zhang, Tao Mei:
