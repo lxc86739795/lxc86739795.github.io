@@ -7,9 +7,8 @@
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Senior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. [Wu Liu](https://liuwu.weebly.com/) and Dr. [Tao Mei](https://taomei.me/).
-I received the Ph. D. degree in computer science in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
-My supervisor is Prof. [Huadong Ma](https://scs.bupt.edu.cn/info/1096/1352.htm). 
+I am currently a Senior Researcher at Computer Vision and Multimedia Lab of JD AI Research working with Dr. [Wu Liu](https://drliuwu.com/) and Dr. [Tao Mei](https://taomei.me/).
+I received the Ph. D. degree in computer science under supervision of Prof. [Huadong Ma](https://scs.bupt.edu.cn/info/1096/1352.htm) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
 My research interests include multimedia computing, computer vision, and their applications in retail.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
