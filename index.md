@@ -18,6 +18,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- November, 2021, I will serve as an Area Chair for [ICME 2022](http://2022.ieeeicme.org/).
 - October, 2021, our team obtained the **2nd Award** in [ICCV21 DeeperAction Challenge Track 3 - Kinetics-TPS Challenge on Part-level Action Parsing](https://deeperaction.github.io/results/). Congratulations to our teammates [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and [Kun Liu](https://scholar.google.com/citations?user=NMMB7wcAAAAJ&hl=en&oi=ao)! The technical report of our solution can be found [HERE](https://arxiv.org/abs/2110.03368).
 - September, 2021, **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** will be held on 20 October 2021 in conjunction with ACM Multimedia 2021. This year we have three invited talks and five paper presentations. More details can be found on the [Website](https://hcma2021.github.io/).
 - August, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2021. Paper submission due is extended to **17 August 2021**. Welcome submissions! [Website](https://hcma2021.github.io/)
@@ -120,6 +121,8 @@ June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图�
 
 ---
 ## Activities
+Area Chair, ICME 2022
+
 Local Session Chair, ACM Multimedia 2021
 
 Proceedings Co-Chair, ACM Multimedia Asia 2021
@@ -210,4 +213,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **October, 2021**_
+_Last Update: **December, 2021**_
