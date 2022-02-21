@@ -48,7 +48,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ### 2022
 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Dong Wu, Yongdong Zhang, Tao Mei:
-_Part-level Action Parsing via a Pose-guidedCoarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**)
+_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**)
 
 ### 2021
 - Wu Liu, **Xinchen Liu**, Jingkuan Song, Dingwen Zhang, Wenbing Huang, Junbo Guo, John Smith:
