@@ -17,6 +17,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- February, 2022, 40+ algorithms of CV, NLP, Supply Chain, etc. developed by our group and collaborators have been open-souced on OpenI（启智）. Welcome to use the codes at [JD on OpenI](https://git.openi.org.cn/jd).
 - January, 2022, one paper on fine-grained action parsing was accepted as a lecture (oral) presentation by **IEEE ISCAS 2022**. Congratulations to Xiaodong Chen and thanks to our collaborators!
 - November, 2021, I will serve as an Area Chair for [ICME 2022](http://2022.ieeeicme.org/).
 - October, 2021, our team obtained the **2nd Award** in [ICCV21 DeeperAction Challenge Track 3 - Kinetics-TPS Challenge on Part-level Action Parsing](https://deeperaction.github.io/results/). Congratulations to our teammates [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and [Kun Liu](https://scholar.google.com/citations?user=NMMB7wcAAAAJ&hl=en&oi=ao)! The technical report of our solution can be found [HERE](https://arxiv.org/abs/2110.03368).
