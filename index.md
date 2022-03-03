@@ -17,13 +17,14 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- March, 2022, one paper on **3D gait recognition and a new benchmark Gait3D** was accepted by **CVPR 2022**. Congrats to my intern Jinkai Zheng and thanks to our collaborators! The paper and new dataset will be released soon.
 - February, 2022, 40+ algorithms of CV, NLP, Supply Chain, etc. developed by our group and collaborators have been open-souced on OpenI（启智）. Welcome to use the codes at [JD on OpenI](https://git.openi.org.cn/jd).
-- January, 2022, one paper on fine-grained action parsing was accepted as a lecture (oral) presentation by **IEEE ISCAS 2022**. Congratulations to Xiaodong Chen and thanks to our collaborators!
+- January, 2022, one paper on fine-grained action parsing was accepted as a lecture (oral) presentation by **IEEE ISCAS 2022**. Congratulations to my intern [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and thanks to our collaborators!
 - November, 2021, I will serve as an Area Chair for [ICME 2022](http://2022.ieeeicme.org/).
 - October, 2021, our team obtained the **2nd Award** in [ICCV21 DeeperAction Challenge Track 3 - Kinetics-TPS Challenge on Part-level Action Parsing](https://deeperaction.github.io/results/). Congratulations to our teammates [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and [Kun Liu](https://scholar.google.com/citations?user=NMMB7wcAAAAJ&hl=en&oi=ao)! The technical report of our solution can be found [HERE](https://arxiv.org/abs/2110.03368).
 - September, 2021, **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** will be held on 20 October 2021 in conjunction with ACM Multimedia 2021. This year we have three invited talks and five paper presentations. More details can be found on the [Website](https://hcma2021.github.io/).
 - August, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2021. Paper submission due is extended to **17 August 2021**. Welcome submissions! [Website](https://hcma2021.github.io/)
-- July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**.
+- July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**. Congrats to my intern [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en).
 - May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
 - May, 2021, our team are organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
 - April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2021. Paper submission due: 10 August 2021. [Website](https://hcma2021.github.io/)
@@ -50,6 +51,9 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Dong Wu, Yongdong Zhang, Tao Mei:
 _Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**)
+
+- Jinkai Zheng, **Xinchen Liu**, Wu Liu, Lingxiao He, Chenggang Yan, Tao Mei:
+_Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022. \[Project\] \[PDF\] \[CODE\] are comming soon.
 
 ### 2021
 - Wu Liu, **Xinchen Liu**, Jingkuan Song, Dingwen Zhang, Wenbing Huang, Junbo Guo, John Smith:
