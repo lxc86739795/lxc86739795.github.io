@@ -55,7 +55,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 _Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476)
 
 - Jinkai Zheng, **Xinchen Liu**, Wu Liu, Lingxiao He, Chenggang Yan, Tao Mei:
-_Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022. [PROJECT](https://gait3d.github.io/) [CODE](https://github.com/Gait3D/Gait3D-Benchmark)
+_Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022. [PROJECT](https://gait3d.github.io/) [CODE](https://github.com/Gait3D/Gait3D-Benchmark) [ARXIV](https://arxiv.org/abs/2204.02569)
 
 ### 2021
 - Wu Liu, **Xinchen Liu**, Jingkuan Song, Dingwen Zhang, Wenbing Huang, Junbo Guo, John Smith:
@@ -225,4 +225,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **March, 2022**_
+_Last Update: **April, 2022**_
