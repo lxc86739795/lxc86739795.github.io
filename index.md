@@ -17,6 +17,8 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- June, 2022, our paper, "Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework", on IEEE ISCAS 2022 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
+- June, 2022, we are organizing **The 3rd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2022. Paper submission due: 10 August 2022. [Website](https://hcma2022.github.io/)
 - March, 2022, the [Gait3D dataset](https://gait3d.github.io/) and the [code](https://github.com/Gait3D/Gait3D-Benchmark) in our CVPR 2022 paper are now released! Any research can obtain the dataset by signing an agreement.
 - March, 2022, we are organizing **The 1st International Workshop on 3D Multimedia Analytics, Search and Generation (3DMM)** in conjunction with IEEE ICME 2022. Paper submission due is extended to **27 March 2022**. Welcome submissions! [Website](https://3dmm-icme2022.github.io/)
 - March, 2022, one paper on **3D gait recognition and a new benchmark Gait3D** was accepted by **CVPR 2022**. Congrats to my intern Jinkai Zheng and thanks to our collaborators! The paper and the new dataset will be released soon.
@@ -52,7 +54,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ### 2022
 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Dong Wu, Yongdong Zhang, Tao Mei:
-_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476)
+_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476)(**IEEE CAS MSA-TC 2022 Best Paper Award Honorable Mention**)
 
 - Jinkai Zheng, **Xinchen Liu**, Wu Liu, Lingxiao He, Chenggang Yan, Tao Mei:
 _Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022. [PROJECT](https://gait3d.github.io/) [CODE](https://github.com/Gait3D/Gait3D-Benchmark) [ARXIV](https://arxiv.org/abs/2204.02569)
@@ -65,7 +67,7 @@ _A Baseline Framework for Part-level Action Parsing and Action Recognition_. CoR
 - Xiaodong Chen, **Xinchen Liu**, Wu Liu, Yongdong Zhang, Xiao-Ping Zhang, Tao Mei:
 _Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021 [PAPER](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.html) [PDF](./papers/2021_AMD.pdf)
 - Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
-_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [PAPER](https://ieeexplore.ieee.org/document/9401218) [PDF](./papers/2021_TraND.pdf) [CODE](https://github.com/JinkaiZheng/TraND) (**IEEE CAS MSA-TC Best Paper Award Honorable Mention**)
+_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [PAPER](https://ieeexplore.ieee.org/document/9401218) [PDF](./papers/2021_TraND.pdf) [CODE](https://github.com/JinkaiZheng/TraND) (**IEEE CAS MSA-TC 2021 Best Paper Award Honorable Mention**)
 
 ### 2020
 
@@ -143,12 +145,14 @@ Co-chair, HUMA 2021 Workshop at ACM Multimedia 2021
 
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, Neurocomputing, MTAP, ...
 
-Conference Reviewer: CVPR, ACM MM, ECCV, AAAI, ICME, ICASSP, ICIP, ...
+Conference Reviewer: CVPR, ACM MM, ECCV, SIGIR, AAAI, ICME, ICASSP, ICIP, ...
 
 Membership: IEEE/ACM/CCF/CSIG Member.
 
 ---
 ## Awards and Honors
+IEEE CAS MSA-TC Best Paper Award - Honorable Mention, 2022, for the paper "_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_"
+
 ICCV 2021 DeeperAction Challenge, Track 3 Kinetics-TPS Challenge on Part-level Action Parsing, 2nd Award
 
 IEEE CAS MSA-TC Best Paper Award - Honorable Mention, 2021, for the paper "_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_"
@@ -185,7 +189,7 @@ Extensive experiments on the VeRi dataset demonstrate both the accuracy and effi
 &ensp;&ensp;&ensp;&ensp;![Image](./images/VeRi_240.png)&ensp;&ensp;![Image](./images/VeRi2_240.png)
 
 ---
-### Multi-grained Vehicle Parsing ([More Details](./MVP.md))
+### Multi-grained Vehicle Parsing from Images([More Details](./MVP.md))
 We present a novel large-scale dataset, Multi-grained Vehicle Parsing (MVP), for semantic analysis of vehicles in the wild, which has several featured properties.
 First of all, the MVP contains 24,000 vehicle images captured in read-world surveillance scenes, which makes it more scalable than existing datasets.
 Moreover, for different requirements, we annotate the vehicle images with pixel-level part masks in two granularities, i.e., the coarse annotations of ten classes and the fine annotations of 59 classes.
@@ -197,7 +201,7 @@ A codebase for person and vehicle parsing can be found [HERE](https://github.com
 ![Image](./images/MVP_dataset.jpg)
 
 ---
-### Fine-grained Human Parsing
+### Fine-grained Human Parsing in Images
 This paper focuses on fine-grained human parsing in images. 
 This is a very challenging task due to the diverse person appearance, semantic ambiguity of different body parts and clothing, and extremely small parsing targets. 
 Although existing approaches can achieve significant improvement by pyramid feature learning, multi-level supervision, and joint learning with pose estimation, human parsing is still far from being solved. 
@@ -214,7 +218,7 @@ Try Human Parsing Online API at [JD Neuhub](http://neuhub.jd.com/ai/api/image/hu
 ![Image](./images/BraidNet1_400.png)![Image](./images/BraidNet2_400.png)
 
 ---
-### Social Relation Recognition 
+### Social Relation Recognition in Videos
 Discovering social relations, e.g., kinship, friendship, etc., from visual contents can make machines better interpret the behaviors and emotions of human beings. 
 Existing studies mainly focus on recognizing social relations from still images while neglecting another important media—video. 
 On the one hand, the actions and storylines in videos provide more important cues for social relation recognition. 
