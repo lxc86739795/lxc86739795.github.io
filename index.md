@@ -17,6 +17,8 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- June, 2022, we are organizing **The 3nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2022. Paper submission due is **17 July 2021**. Welcome submissions! [Website](https://hcma2022.github.io/)
+- June, 2022, **four papers** was accepted by **ACM Multimedia 2022**. The papers and codes will be available soon. Congretulations to out team and collaborators!
 - June, 2022, our paper, "Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework", on IEEE ISCAS 2022 was selected as **IEEE CAS MSA-TC Best Paper Award - Honorable Mention**. This is the second time our team obtains this honor. Thanks to our collaborators!
 - June, 2022, we are organizing **The 3rd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2022. Paper submission due: 10 August 2022. [Website](https://hcma2022.github.io/)
 - March, 2022, the [Gait3D dataset](https://gait3d.github.io/) and the [code](https://github.com/Gait3D/Gait3D-Benchmark) in our CVPR 2022 paper are now released! Any research can obtain the dataset by signing an agreement.
