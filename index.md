@@ -54,6 +54,17 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 ### 2022
+- Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
+_Delving into the Frequency: Temporally Consistent Human Motion Transfer in the Fourier Space_. ACM Multimedia 2022
+
+- Xiaodong Chen, Wu Liu, **Xinchen Liu**, Yongdong Zhang, Jungong Han, Tao Mei:
+_MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition_. ACM Multimedia 2022
+
+- Quanwei Yang, **Xinchen Liu**, Wu Liu, Hongtao Xie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang:
+_REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer_. ACM Multimedia 2022
+
+- Jinkai Zheng, **Xinchen Liu**, Xiaoyan Gu, Yaoqi Sun, Chuang Gan, Jiyong Zhang, Wu Liu, Chenggang Yan:
+_Gait Recognition in the Wild with Multi-hop Temporal Switch_. ACM Multimedia 2022
 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Dong Wu, Yongdong Zhang, Tao Mei:
 _Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476)(**IEEE CAS MSA-TC 2022 Best Paper Award Honorable Mention**)
