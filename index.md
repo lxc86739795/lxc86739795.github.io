@@ -144,7 +144,9 @@ _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_
 
 ---
 ## Talks
-June, 2020, NCIG2020 Outstanding Doctor and Young Scholor Panel (2020全国图象图形学学术会议，优秀博士与青年学者论坛), "Large-scale Vehicle Search in Smart City (智慧城市中的车辆搜索)" (In Chinese). [SLIDES](./papers/NCIG2020_VehicleReID_XinchenLiu.pdf)
+August, 2022, CCIG 2022 Young Scholar Panel (2022中国图象图形学大会，青年学者论坛), "Gait Recognition from 2D to 3D". [SLIDES](./papers/CCIG2022_Gait3D_XinchenLiu.pdf)
+
+June, 2020, NCIG 2020 Outstanding Doctor and Young Scholar Panel (2020全国图象图形学学术会议，优秀博士与青年学者论坛), "Large-scale Vehicle Search in Smart City (智慧城市中的车辆搜索)" (In Chinese). [SLIDES](./papers/NCIG2020_VehicleReID_XinchenLiu.pdf)
 
 ---
 ## Activities
