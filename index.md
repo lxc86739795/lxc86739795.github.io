@@ -17,7 +17,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
-- August, 2022 I gave the talk, "Gait Recognition from 2D to 3D", at CCIG 2022 Young Scholar Panel (2022中国图象图形学大会，青年学者论坛). Thanks for the invitation of the committee. The slides can be downloaded [here](./papers/CCIG2022_Gait3D_XinchenLiu.pdf).
+- August, 2022, I gave the talk, "Gait Recognition from 2D to 3D", at [CCIG 2022 Young Scholar Panel](http://ccig.csig.org.cn/%e7%89%b9%e8%89%b2%e8%ae%ba%e5%9d%9b-2/) (2022中国图象图形学大会，青年学者论坛). Thanks for the invitation of the committee. The slides can be downloaded [here](./papers/CCIG2022_Gait3D_XinchenLiu.pdf).
 - June, 2022, we are organizing **The 3nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2022. Paper submission due is **17 July 2021**. Welcome submissions! [Website](https://hcma2022.github.io/)
 - June, 2022, **four papers** was accepted by **ACM Multimedia 2022**. The papers and codes will be available soon. Congretulations to out team and collaborators!
 - June, 2022, our paper, "Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework", on IEEE ISCAS 2022 was selected as **IEEE CAS MSA-TC Best Paper Award - Honorable Mention**. This is the second time our team obtains this honor. Thanks to our collaborators!
