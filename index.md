@@ -163,7 +163,7 @@ Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TM
 
 Conference Reviewer: CVPR, ACM MM, ECCV, SIGIR, AAAI, ICME, ICASSP, ICIP, ...
 
-Membership: IEEE/ACM/CCF/CSIG Member.
+Membership: CCF Senior Member, IEEE/ACM/CSIG Member.
 
 ---
 ## Awards and Honors
