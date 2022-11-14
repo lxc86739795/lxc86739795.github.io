@@ -17,6 +17,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- November, 2022, our paper "PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance" was recognized as the **ESI Highly Cited Paper** (Top 1% of papers in the academic field).
 - October, 2022, we are organizing a Special Issue of Human-centric Multimedia Analysis on the journal of Multimedia Tools and Applications. Welcome submissions! **Submission deadline: March 13, 2023. Final notification date: August 2, 2023.** [CALL FOR PAPER](https://www.springer.com/journal/11042/updates/23635992?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5dF5DYQnBtXxEzHP9EzFqbR28eNOK2kPZdUuV5V4yj4CRBGW1Xp84aAtzCEALw_wcB)
 - August, 2022, I gave the talk, "Gait Recognition from 2D to 3D", at [CCIG 2022 Young Scholar Panel](http://ccig.csig.org.cn/%e7%89%b9%e8%89%b2%e8%ae%ba%e5%9d%9b-2/) (2022中国图象图形学大会，青年学者论坛). Thanks for the invitation of the committee. The slides can be downloaded [here](./papers/CCIG2022_Gait3D_XinchenLiu.pdf).
 - June, 2022, we are organizing **The 3nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2022. Paper submission due is **17 July 2021**. Welcome submissions! [Website](https://hcma2022.github.io/)
