@@ -6,7 +6,7 @@
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
-## About Me
+## About Me ([CV (Chinese)](./papers/cv_lxc_cn.pdf))
 I am currently a Senior Researcher at Computer Vision and Multimedia Lab of JD Explore Acamedy working with Dr. [Wu Liu](https://drliuwu.com/) and Dr. [Tao Mei](https://taomei.me/).
 I received the Ph. D. degree in computer science under supervision of Prof. [Huadong Ma](https://teacher.bupt.edu.cn/mahuadong) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
 My research interests include multimedia computing, computer vision, and their applications in retail.
@@ -252,4 +252,4 @@ The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https:/
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **September, 2022**_
+_Last Update: **March, 2023**_
