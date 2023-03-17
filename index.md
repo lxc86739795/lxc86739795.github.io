@@ -81,9 +81,9 @@ _HUMA'21: 2nd International Workshop on Human-centric Multimedia Analysis_. ACM 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Tao Mei:
 _A Baseline Framework for Part-level Action Parsing and Action Recognition_. CoRR abs/2110.03368 (2021) [arXiv](https://arxiv.org/abs/2110.03368) (**2nd place solution to Kinetics-TPS Track on Part-level Action Parsing in ICCV DeeperAction Challenge 2021**)
 - Xiaodong Chen, **Xinchen Liu**, Wu Liu, Yongdong Zhang, Xiao-Ping Zhang, Tao Mei:
-_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021 [PAPER](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.html) [PDF](./papers/2021_AMD.pdf)
+_Explainable Person Re-Identification with Attribute-guided Metric Distillation_. ICCV 2021 [PAPER](https://openaccess.thecvf.com/content/ICCV2021/html/Chen_Explainable_Person_Re-Identification_With_Attribute-Guided_Metric_Distillation_ICCV_2021_paper.html) [PDF](./papers/2021_ICCV_AMD.pdf)
 - Jinkai Zheng, **Xinchen Liu**, Chenggang Yan, Jiyong Zhang, Wu Liu, Xiaoping Zhang, Tao Mei:
-_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [PAPER](https://ieeexplore.ieee.org/document/9401218) [PDF](./papers/2021_TraND.pdf) [CODE](https://github.com/JinkaiZheng/TraND) (**IEEE CAS MSA-TC 2021 Best Paper Award Honorable Mention**)
+_TraND: Transferable Neighborhood Discovery for Unsupervised Cross-domain Gait Recognition_. ISCAS 2021 [PAPER](https://ieeexplore.ieee.org/document/9401218) [PDF](./papers/2021_ISCAS_TraND.pdf) [CODE](https://github.com/JinkaiZheng/TraND) (**IEEE CAS MSA-TC 2021 Best Paper Award Honorable Mention**)
 
 ### 2020
 
