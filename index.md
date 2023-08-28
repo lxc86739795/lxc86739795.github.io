@@ -7,8 +7,8 @@
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Senior Researcher at Computer Vision and Multimedia Lab of JD Explore Acamedy working with Dr. [Wu Liu](https://drliuwu.com/) and Dr. [Tao Mei](https://taomei.me/).
-I received the Ph. D. degree in computer science under supervision of Prof. [Huadong Ma](https://teacher.bupt.edu.cn/mahuadong) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
+I am currently a Senior Researcher at the Computer Vision and Multimedia Lab of JD Explore Acamedy working with Dr. [Wu Liu](https://drliuwu.com/) and Dr. [Tao Mei](https://taomei.me/).
+I received the Ph. D. degree in computer science under the supervision of Prof. [Huadong Ma](https://teacher.bupt.edu.cn/mahuadong) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
 My research interests include multimedia computing, computer vision, and their applications in retail.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
@@ -17,13 +17,15 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- August, 2023, **One paper** was accepted by **ACM Multimedia 2023**. The papers and codes will be available soon. Congratulations to our team and collaborators!
+- June, 2023, we are organizing **The 4nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. Paper submission due is **31 July 2023**. Welcome submissions! [Website](https://hcma2023.github.io/)
 - November, 2022, our paper "PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance" was recognized as the **ESI Highly Cited Paper** (Top 1% of papers in the academic field).
-- October, 2022, we are organizing a Special Issue of Human-centric Multimedia Analysis on the journal of Multimedia Tools and Applications. Welcome submissions! **Submission deadline: March 13, 2023. Final notification date: August 2, 2023.** [CALL FOR PAPER](https://www.springer.com/journal/11042/updates/23635992?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5dF5DYQnBtXxEzHP9EzFqbR28eNOK2kPZdUuV5V4yj4CRBGW1Xp84aAtzCEALw_wcB)
+- October, 2022, we are organizing a Special Issue of Human-centric Multimedia Analysis in the Journal of Multimedia Tools and Applications. Welcome submissions! **Submission deadline: March 13, 2023. Final notification date: August 2, 2023.** [CALL FOR PAPER](https://www.springer.com/journal/11042/updates/23635992?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5dF5DYQnBtXxEzHP9EzFqbR28eNOK2kPZdUuV5V4yj4CRBGW1Xp84aAtzCEALw_wcB)
 - August, 2022, I gave the talk, "Gait Recognition from 2D to 3D", at [CCIG 2022 Young Scholar Panel](http://ccig.csig.org.cn/%e7%89%b9%e8%89%b2%e8%ae%ba%e5%9d%9b-2/) (2022中国图象图形学大会，青年学者论坛). Thanks for the invitation of the committee. The slides can be downloaded [here](./papers/CCIG2022_Gait3D_XinchenLiu.pdf).
-- June, 2022, we are organizing **The 3nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2022. Paper submission due is **17 July 2021**. Welcome submissions! [Website](https://hcma2022.github.io/)
-- June, 2022, **four papers** was accepted by **ACM Multimedia 2022**. The papers and codes will be available soon. Congretulations to out team and collaborators!
-- June, 2022, our paper, "Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework", on IEEE ISCAS 2022 was selected as **IEEE CAS MSA-TC Best Paper Award - Honorable Mention**. This is the second time our team obtains this honor. Thanks to our collaborators!
-- June, 2022, we are organizing **The 3rd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2022. Paper submission due: 10 August 2022. [Website](https://hcma2022.github.io/)
+- June, 2022, we are organizing **The 3rd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2022. Paper submission due is **17 July 2021**. Welcome submissions! [Website](https://hcma2022.github.io/)
+- June, 2022, **four papers** was accepted by **ACM Multimedia 2022**. The papers and codes will be available soon. Congratulations to our team and collaborators!
+- June, 2022, our paper, "Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework", on IEEE ISCAS 2022 was selected as **IEEE CAS MSA-TC Best Paper Award - Honorable Mention**. This is the second time our team has obtained this honor. Thanks to our collaborators!
+- June, 2022, we are organizing **The 3rd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2022. Paper submission due 10 August 2022. [Website](https://hcma2022.github.io/)
 - March, 2022, the [Gait3D dataset](https://gait3d.github.io/) and the [code](https://github.com/Gait3D/Gait3D-Benchmark) in our CVPR 2022 paper are now released! Any research can obtain the dataset by signing an agreement.
 - March, 2022, we are organizing **The 1st International Workshop on 3D Multimedia Analytics, Search and Generation (3DMM)** in conjunction with IEEE ICME 2022. Paper submission due is extended to **27 March 2022**. Welcome submissions! [Website](https://3dmm-icme2022.github.io/)
 - March, 2022, one paper on **3D gait recognition and a new benchmark Gait3D** was accepted by **CVPR 2022**. Congrats to my intern Jinkai Zheng and thanks to our collaborators! The paper and the new dataset will be released soon.
@@ -40,14 +42,14 @@ Please directly send your CV to my email if you are interested in the positions!
 - January, 2021, one paper on gait recognition was accepted as a lecture (oral) presentation by **IEEE ISCAS 2021**. Congratulations to Jinkai Zheng and thanks to our collaborators!
 - December, 2020, our team won the **Championship** in [NAIC Challenge 2020 AI+Person ReID Track](https://mp.weixin.qq.com/s/iktrS9If12uum0_qQ1MZ1A). Congratulations to our teammates [Xingyu Liao](https://github.com/L1aoXingyu), [Lingxiao He](https://lingxiao-he.github.io/), [Peng Cheng](https://github.com/CPFLAME), and [Guanan Wang](https://wangguanan.github.io/)!
 - November, 2020, the codebase for **human parsing and vehicle parsing** in our papers of ACM MM'19 and ACM MM'20, has been released, please refer to [CODE](
-https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for human, [MVP](MVP.html) for vehicle).
+https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported multiple segmentation and parsing methods and two datasets ([LIP](http://sysu-hcp.net/lip/) for humans, [MVP](MVP.html) for vehicles).
 - November, 2020, the code for the paper, "**Beyond the Parts: Learning Multi-view Cross-part Correlation for Vehicle Re-identification**, ACM MM, 2020", has been released, please refer to [CODE](https://github.com/lxc86739795/vehicle_reid_by_parsing).
-- August, 2020, one regular paper and one demo paper are accpepted by **ACM Multimedia, 2020**.
-- July, 2020, we released a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more datails, please refer to [MVP](MVP.md).
+- August, 2020, one regular paper and one demo paper are accepted by **ACM Multimedia, 2020**.
+- July, 2020, we released a large-scale multi-grained vehicle parsing dataset, **MVP dataset**, for vehicle part segmentation. For more details, please refer to [MVP](MVP.md).
 - July, 2020, one paper was published on **IEEE Transactions on Image Processing** [LINK](https://ieeexplore.ieee.org/document/9127791).
-- June, 2020, our team presented **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves the state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [PAPER](https://arxiv.org/abs/2006.02631) and [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
-- December, 2019, we made a perfromance list of recent vehicle Re-Id methods on the VeRi dataset. We also apply a strong baseline model for Re-Id on six vehicle Re-Id datasets. Please refer to [LINK](https://github.com/JDAI-CV/VeRidataset) and the strong baseline model [CODE](https://github.com/JDAI-CV/fast-reid).
-- November, 2019, my Ph. D. Thesis, "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_", was awarded as the Outstanding Doctoral Dissertation Award of China Society of Image and Graphics (**中国图象图形学学会优秀博士学位论文**). [NEWS](http://www.csig.org.cn/detail/2880) [PDF](./papers/thesis_lxc.pdf)
+- June, 2020, our team presented **FastReID**, a powerful toolbox of object re-identification for academia and industry. It achieves state-of-the-art performance for both person Re-Id and vehicle Re-Id. Please refer to our [PAPER](https://arxiv.org/abs/2006.02631) and [CODE](https://github.com/JDAI-CV/fast-reid) for more details.
+- December, 2019, we made a performance list of recent vehicle Re-Id methods on the VeRi dataset. We also apply a strong baseline model for Re-Id on six vehicle Re-Id datasets. Please refer to [LINK](https://github.com/JDAI-CV/VeRidataset) and the strong baseline model [CODE](https://github.com/JDAI-CV/fast-reid).
+- November, 2019, my Ph. D. Thesis, "_Research on Key Techniques of Vehicle Search in Urban Video Surveillance Networks_", was awarded the Outstanding Doctoral Dissertation Award of China Society of Image and Graphics (**中国图象图形学学会优秀博士学位论文**). [NEWS](http://www.csig.org.cn/detail/2880) [PDF](./papers/thesis_lxc.pdf)
 - October 22, 2019, one paper (Paper ID: P1C-10) will be presented at **ACM Multimedia 2019**, Nice, France.
 - July, 2019, our paper, "_PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance_" on IEEE Trans. Multimedia 20(3): 645-658, (2018), was awarded the **TMM Multimedia Prize Paper Award 2019**. Thanks to Dr. Wu Liu, Dr. Tao Mei, and Prof. Huadong Ma!
 - July, 2019, one paper was presented at **ICME 2019**, Shanghai, China.
@@ -55,6 +57,10 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
+
+### 2023 
+- Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
+_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023
 
 ### 2022
 - Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
@@ -169,6 +175,8 @@ Membership: CCF/CSIG Senior Member, IEEE/ACM Member.
 
 ---
 ## Awards and Honors
+ChinaMM Multimedia Industrial Innovative Technology Award, 2023, for the project "_Key Technology on Multi-modal Human Analysis_"
+
 IEEE CAS MSA-TC Best Paper Award - Honorable Mention, 2022, for the paper "_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_"
 
 ICCV 2021 DeeperAction Challenge, Track 3 Kinetics-TPS Challenge on Part-level Action Parsing, 2nd Award
@@ -191,7 +199,7 @@ IEEE ICME Best Student Paper Award, 2016, for the paper "_Large-scale vehicle re
 ## Research
 
 ### Gait Recognition in the Wild with dense 3D Representations ([More Details](https://gait3d.github.io/))
-Existing studies for gait recognition are dominated by 2D representations like the silhouette or skeleton of the human body in constrained scenes. However, humans live and walk in the unconstrained 3D space, so projecting the 3D human body onto the 2D plane will discard a lot of crucial information like the viewpoint, shape, and dynamics for gait recognition. Therefore, this paper aims to explore dense 3D representations for gait recognition in the wild, which is a practical yet neglected problem. In particular, we propose a novel framework to explore the 3D Skinned Multi-Person Linear (SMPL) model of the human body for gait recognition, named SMPLGait. Our framework has two elaborately-designed branches of which one extracts appearance features from silhouettes, the other learns knowledge of 3D viewpoints and shapes from the 3D SMPLmodel. With the learned 3D knowledge, the appearance features from arbitrary viewpoints can be normalized in the latent space to overcome the extreme viewpoint changes in the wild scenes. In addition, due to the lack of suitable datasets, we build the first large-scale 3D representation-based gait recognition dataset, named Gait3D. It contains 4,000 subjects and over 25,000 sequences extracted from 39 cameras in an unconstrained indoor scene. More importantly, it provides 3D SMPL models recovered from video frames which can provide dense 3D information of body shape, viewpoint, and dynamics. Furthermore, it also provides 2D silhouettes and keypoints that can be explored for gait recognition using multi-modal data. Based on Gait3D, we comprehensively compare our method with existing gait recognition approaches, which reflects the superior performance of our framework and the potential of 3D representations for gait recognition in the wild.
+Existing studies for gait recognition are dominated by 2D representations like the silhouette or skeleton of the human body in constrained scenes. However, humans live and walk in the unconstrained 3D space, so projecting the 3D human body onto the 2D plane will discard a lot of crucial information like the viewpoint, shape, and dynamics for gait recognition. Therefore, this paper aims to explore dense 3D representations for gait recognition in the wild, which is a practical yet neglected problem. In particular, we propose a novel framework to explore the 3D Skinned Multi-Person Linear (SMPL) model of the human body for gait recognition, named SMPLGait. Our framework has two elaborately-designed branches of which one extracts appearance features from silhouettes, the other learns knowledge of 3D viewpoints and shapes from the 3D SMPL model. With the learned 3D knowledge, the appearance features from arbitrary viewpoints can be normalized in the latent space to overcome the extreme viewpoint changes in the wild scenes. In addition, due to the lack of suitable datasets, we build the first large-scale 3D representation-based gait recognition dataset, named Gait3D. It contains 4,000 subjects and over 25,000 sequences extracted from 39 cameras in an unconstrained indoor scene. More importantly, it provides 3D SMPL models recovered from video frames which can provide dense 3D information of body shape, viewpoint, and dynamics. Furthermore, it also provides 2D silhouettes and keypoints that can be explored for gait recognition using multi-modal data. Based on Gait3D, we comprehensively compare our method with existing gait recognition approaches, which reflects the superior performance of our framework and the potential of 3D representations for gait recognition in the wild.
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/gait3d.png)
 
@@ -212,7 +220,7 @@ We present a novel large-scale dataset, Multi-grained Vehicle Parsing (MVP), for
 First of all, the MVP contains 24,000 vehicle images captured in read-world surveillance scenes, which makes it more scalable than existing datasets.
 Moreover, for different requirements, we annotate the vehicle images with pixel-level part masks in two granularities, i.e., the coarse annotations of ten classes and the fine annotations of 59 classes.
 The former can be applied to object-level applications such as vehicle Re-Id, fine-grained classification, and pose estimation, while the latter can be explored for high-quality image generation and content manipulation.
-Furthermore, the images reflect complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, and etc.
+Furthermore, the images reflect the complexity of real surveillance scenes, such as different viewpoints, illumination conditions, backgrounds, etc.
 In addition, the vehicles have diverse countries, types, brands, models, and colors, which makes the dataset more diverse and challenging.
 A codebase for person and vehicle parsing can be found [HERE](https://github.com/lxc86739795/human_vehicle_parsing_platform).
 
@@ -221,14 +229,14 @@ A codebase for person and vehicle parsing can be found [HERE](https://github.com
 ---
 ### Fine-grained Human Parsing in Images
 This paper focuses on fine-grained human parsing in images. 
-This is a very challenging task due to the diverse person appearance, semantic ambiguity of different body parts and clothing, and extremely small parsing targets. 
-Although existing approaches can achieve significant improvement by pyramid feature learning, multi-level supervision, and joint learning with pose estimation, human parsing is still far from being solved. 
-Different from existing approaches, we propose a Braiding Network, named as BraidNet, to learn complementary semantics and details for fine-grained human parsing. 
+This is a very challenging task due to the diverse person's appearance, semantic ambiguity of different body parts and clothing, and extremely small parsing targets. 
+Although existing approaches can achieve significant improvement through pyramid feature learning, multi-level supervision, and joint learning with pose estimation, human parsing is still far from being solved. 
+Different from existing approaches, we propose a Braiding Network, named BraidNet, to learn complementary semantics and details for fine-grained human parsing. 
 The BraidNet contains a two-stream braid-like architecture.
 The first stream is a semantic abstracting net with a deep yet narrow structure which can learn semantic knowledge by a hierarchy of fully convolution layers to overcome the challenges of diverse person appearance. 
 To capture low-level details of small targets, the detail-preserving net is designed to exploit a shallow yet wide network without down-sampling, which can retain sufficient local structures for small objects. 
 Moreover, we design a group of braiding modules across the two sub-nets, by which complementary information can be exchanged during end-to-end training. 
-Besides, in the end of BraidNet, a Pairwise Hard Region Embedding strategy is propose to eliminate the semantic ambiguity of different body parts and clothing. 
+Besides, at the end of BraidNet, a Pairwise Hard Region Embedding strategy is proposed to eliminate the semantic ambiguity of different body parts and clothing. 
 Extensive experiments show that the proposed BraidNet achieves better performance than the state-of-the-art methods for fine-grained human parsing.
 
 Try Human Parsing Online API at [JD Neuhub](http://neuhub.jd.com/ai/api/image/humanParsing).
@@ -237,17 +245,17 @@ Try Human Parsing Online API at [JD Neuhub](http://neuhub.jd.com/ai/api/image/hu
 
 ---
 ### Social Relation Recognition in Videos
-Discovering social relations, e.g., kinship, friendship, etc., from visual contents can make machines better interpret the behaviors and emotions of human beings. 
+Discovering social relations, e.g., kinship, friendship, etc., from visual content can make machines better interpret the behaviors and emotions of human beings. 
 Existing studies mainly focus on recognizing social relations from still images while neglecting another important media—video. 
 On the one hand, the actions and storylines in videos provide more important cues for social relation recognition. 
-On the other hand, the key persons may appear at arbitrary spatial-temporal locations, even not in one same image from beginning to the end. 
+On the other hand, the key persons may appear at arbitrary spatial-temporal locations, even not in the same image from beginning to end. 
 To overcome these challenges, we propose a Multi-scale Spatial-Temporal Reasoning (MSTR) framework to recognize social relations from
 videos. 
-For the spatial representation, we not only adopt a temporal segment network to learn global action and scene information, but also design a Triple Graphs model to capture visual relations between persons and objects. 
+For the spatial representation, we not only adopt a temporal segment network to learn global action and scene information but also design a Triple Graphs model to capture visual relations between persons and objects. 
 For the temporal domain, we propose a Pyramid Graph Convolutional Network to perform temporal reasoning with multi-scale receptive fields, which can obtain both long-term and short-term storylines in videos. 
-By this means, MSTR can comprehensively explore the multi-scale actions and story-lines in spatial-temporal dimensions for social relation reasoning in videos. 
+By this means, MSTR can comprehensively explore the multi-scale actions and storylines in spatial-temporal dimensions for social relation reasoning in videos. 
 Extensive experiments on a new large-scale Video Social Relation dataset demonstrate the effectiveness of the proposed framework.
-The dataset can be download from [BaiduPan (~57GB, download code: jzei)](https://pan.baidu.com/s/1zeH2qeZZVRu__Kg-M5hJuw).
+The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https://pan.baidu.com/s/1zeH2qeZZVRu__Kg-M5hJuw).
 
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
