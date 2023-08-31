@@ -17,7 +17,7 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
-- August, 2023, **One paper** was accepted by **ACM Multimedia 2023**. The papers and codes will be available soon. Congratulations to our team and collaborators!
+- August, 2023, **One paper** on gait recognition with a new dataset ([Project](https://gait3d.github.io/gait3d-parsing-hp/)) was accepted by **ACM Multimedia 2023**. Congratulations to our team and collaborators!
 - June, 2023, we are organizing **The 4nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. Paper submission due is **31 July 2023**. Welcome submissions! [Website](https://hcma2023.github.io/)
 - November, 2022, our paper "PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance" was recognized as the **ESI Highly Cited Paper** (Top 1% of papers in the academic field).
 - October, 2022, we are organizing a Special Issue of Human-centric Multimedia Analysis in the Journal of Multimedia Tools and Applications. Welcome submissions! **Submission deadline: March 13, 2023. Final notification date: August 2, 2023.** [CALL FOR PAPER](https://www.springer.com/journal/11042/updates/23635992?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5dF5DYQnBtXxEzHP9EzFqbR28eNOK2kPZdUuV5V4yj4CRBGW1Xp84aAtzCEALw_wcB)
@@ -60,7 +60,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
-_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023
+_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/)
 
 ### 2022
 - Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
