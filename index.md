@@ -67,16 +67,16 @@ _Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multime
 _Delving into the Frequency: Temporally Consistent Human Motion Transfer in the Fourier Space_. ACM Multimedia 2022
 
 - Xiaodong Chen, Wu Liu, **Xinchen Liu**, Yongdong Zhang, Jungong Han, Tao Mei:
-_MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition_. ACM Multimedia 2022
+_MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition_. ACM Multimedia 2022 (**Oral Presentation**)
 
 - Quanwei Yang, **Xinchen Liu**, Wu Liu, Hongtao Xie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang:
 _REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer_. ACM Multimedia 2022
 
 - Jinkai Zheng, **Xinchen Liu**, Xiaoyan Gu, Yaoqi Sun, Chuang Gan, Jiyong Zhang, Wu Liu, Chenggang Yan:
-_Gait Recognition in the Wild with Multi-hop Temporal Switch_. ACM Multimedia 2022
+_Gait Recognition in the Wild with Multi-hop Temporal Switch_. ACM Multimedia 2022 [ARXIV](https://arxiv.org/abs/2209.00355)
 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Dong Wu, Yongdong Zhang, Tao Mei:
-_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476)(**IEEE CAS MSA-TC 2022 Best Paper Award Honorable Mention**)
+_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476) (**IEEE CAS MSA-TC 2022 Best Paper Award Honorable Mention**)
 
 - Jinkai Zheng, **Xinchen Liu**, Wu Liu, Lingxiao He, Chenggang Yan, Tao Mei:
 _Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022. [PROJECT](https://gait3d.github.io/) [CODE](https://github.com/Gait3D/Gait3D-Benchmark) [ARXIV](https://arxiv.org/abs/2204.02569)
