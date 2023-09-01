@@ -60,7 +60,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
-_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/)
+_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/) [ARXIV](https://arxiv.org/abs/2308.16739)
 
 ### 2022
 - Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
