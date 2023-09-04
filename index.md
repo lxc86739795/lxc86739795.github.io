@@ -9,7 +9,7 @@
 ## About Me
 I am currently a Senior Researcher at JD Explore Academy.
 My research interests include multimedia computing, computer vision, and their applications in retail.
-I received my Ph. D. degree under the supervision of Prof. [Huadong Ma](https://teacher.bupt.edu.cn/mahuadong) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018. 
+I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018. 
 I received my B.S. degree from Northwest A&F University in 2011.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
