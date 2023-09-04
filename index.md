@@ -7,9 +7,10 @@
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Senior Researcher at the Computer Vision and Multimedia Lab of JD Explore Acamedy working with Dr. [Wu Liu](https://drliuwu.com/) and Dr. [Tao Mei](https://taomei.me/).
-I received the Ph. D. degree in computer science under the supervision of Prof. [Huadong Ma](https://teacher.bupt.edu.cn/mahuadong) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications, in June 2018. 
+I am currently a Senior Researcher at JD Explore Academy.
 My research interests include multimedia computing, computer vision, and their applications in retail.
+I received my Ph. D. degree under the supervision of Prof. [Huadong Ma](https://teacher.bupt.edu.cn/mahuadong) in Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018. 
+I received my B.S. degree from Northwest A&F University in 2011.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
 Please directly send your CV to my email if you are interested in the positions! :D**
