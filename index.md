@@ -18,8 +18,10 @@ Please directly send your CV to my email if you are interested in the positions!
 
 ---
 ## Recent News
+- October, 2023, we will host **The 4th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. **Workshop Date: 2, November, 2023** in Ottawa, Canada.
+- September, 2023, our open-source toolbox **FastReID** ([GitHub](https://github.com/JDAI-CV/fast-reid)) was accepted by the open-source software competition session of **ACM Multimedia 2023**. Congratulations to our team and collaborators! FastReID is a PyTorch-based toolbox for general object re-identification with SOTA algorithms and models.
 - August, 2023, **One paper** on gait recognition with a new dataset ([Project](https://gait3d.github.io/gait3d-parsing-hp/)) was accepted by **ACM Multimedia 2023**. Congratulations to our team and collaborators!
-- June, 2023, we are organizing **The 4nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. Paper submission due is **31 July 2023**. Welcome submissions! [Website](https://hcma2023.github.io/)
+- June, 2023, we are organizing **The 4th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. Paper submission due is **31 July 2023**. Welcome submissions! [Website](https://hcma2023.github.io/)
 - November, 2022, our paper "PROVID: Progressive and Multimodal Vehicle Reidentification for Large-Scale Urban Surveillance" was recognized as the **ESI Highly Cited Paper** (Top 1% of papers in the academic field).
 - October, 2022, we are organizing a Special Issue of Human-centric Multimedia Analysis in the Journal of Multimedia Tools and Applications. Welcome submissions! **Submission deadline: March 13, 2023. Final notification date: August 2, 2023.** [CALL FOR PAPER](https://www.springer.com/journal/11042/updates/23635992?gclid=Cj0KCQjwwfiaBhC7ARIsAGvcPe5dF5DYQnBtXxEzHP9EzFqbR28eNOK2kPZdUuV5V4yj4CRBGW1Xp84aAtzCEALw_wcB)
 - August, 2022, I gave the talk, "Gait Recognition from 2D to 3D", at [CCIG 2022 Young Scholar Panel](http://ccig.csig.org.cn/%e7%89%b9%e8%89%b2%e8%ae%ba%e5%9d%9b-2/) (2022中国图象图形学大会，青年学者论坛). Thanks for the invitation of the committee. The slides can be downloaded [here](./papers/CCIG2022_Gait3D_XinchenLiu.pdf).
@@ -62,6 +64,9 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
 _Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/) [ARXIV](https://arxiv.org/abs/2308.16739)
+
+- Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
+_FastReID: A Pytorch Toolbox for General Instance Re-identification_. ACM Multimedia 2023 [GitHub](https://github.com/JDAI-CV/fast-reid) [ARXIV](https://arxiv.org/abs/2006.02631)
 
 ### 2022
 - Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
@@ -261,4 +266,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **May, 2023**_
+_Last Update: **October, 2023**_
