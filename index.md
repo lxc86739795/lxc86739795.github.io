@@ -63,10 +63,13 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
-_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/) [ARXIV](https://arxiv.org/abs/2308.16739)
+_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 (**Oral Presentation**) [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/) [ARXIV](https://arxiv.org/abs/2308.16739)
 
 - Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
 _FastReID: A Pytorch Toolbox for General Instance Re-identification_. ACM Multimedia 2023 [GitHub](https://github.com/JDAI-CV/fast-reid) [ARXIV](https://arxiv.org/abs/2006.02631)
+
+- Jingkuan Song, Wu Liu, **Xinchen Liu**, Dingwen Zhang, Chaowei Fang Chaowei Fang, Hongyuan Zhu, Wenbing Huang, John Smith, Xin Wang
+_HCMA'23: 4th International Workshop on Human-Centric Multimedia Analysis. ACM Multimedia 2023
 
 ### 2022
 - Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
@@ -266,4 +269,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **October, 2023**_
+_Last Update: **November, 2023**_
