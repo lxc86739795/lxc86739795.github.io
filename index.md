@@ -63,32 +63,32 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
-_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023 (**Oral Presentation**) [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/) [ARXIV](https://arxiv.org/abs/2308.16739)
+_Parsing is All You Need for Accurate Gait Recognition in the Wild_. ACM Multimedia 2023, 116-124. (**Oral Presentation**) [PROJECT](https://gait3d.github.io/gait3d-parsing-hp/) [ARXIV](https://arxiv.org/abs/2308.16739)
 
 - Lingxiao He, Xingyu Liao, Wu Liu, **Xinchen Liu**, Peng Cheng, Tao Mei:
-_FastReID: A Pytorch Toolbox for General Instance Re-identification_. ACM Multimedia 2023 [GitHub](https://github.com/JDAI-CV/fast-reid) [ARXIV](https://arxiv.org/abs/2006.02631)
+_FastReID: A Pytorch Toolbox for General Instance Re-identification_. ACM Multimedia 2023, 9664-9667. [GitHub](https://github.com/JDAI-CV/fast-reid) [ARXIV](https://arxiv.org/abs/2006.02631)
 
-- Jingkuan Song, Wu Liu, **Xinchen Liu**, Dingwen Zhang, Chaowei Fang Chaowei Fang, Hongyuan Zhu, Wenbing Huang, John Smith, Xin Wang
-_HCMA'23: 4th International Workshop on Human-Centric Multimedia Analysis. ACM Multimedia 2023
+- Jingkuan Song, Wu Liu, **Xinchen Liu**, Dingwen Zhang, Chaowei Fang, Hongyuan Zhu, Wenbing Huang, John Smith, Xin Wang
+_HCMA'23: 4th International Workshop on Human-Centric Multimedia Analysis. ACM Multimedia 2023, 9734-9735.
 
 ### 2022
 - Guang Yang, Wu Liu, **Xinchen Liu**, Xiaoyan Gu, Juan Cao, Jintao Li:
-_Delving into the Frequency: Temporally Consistent Human Motion Transfer in the Fourier Space_. ACM Multimedia 2022
+_Delving into the Frequency: Temporally Consistent Human Motion Transfer in the Fourier Space_. ACM Multimedia 2022, 1156-1166.
 
 - Xiaodong Chen, Wu Liu, **Xinchen Liu**, Yongdong Zhang, Jungong Han, Tao Mei:
-_MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition_. ACM Multimedia 2022 (**Oral Presentation**)
+_MAPLE: Masked Pseudo-Labeling autoEncoder for Semi-supervised Point Cloud Action Recognition_. ACM Multimedia 2022, 708-718. (**Oral Presentation**)
 
 - Quanwei Yang, **Xinchen Liu**, Wu Liu, Hongtao Xie, Xiaoyan Gu, Lingyun Yu, Yongdong Zhang:
-_REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer_. ACM Multimedia 2022
+_REMOT: A Region-to-Whole Framework for Realistic Human Motion Transfer_. ACM Multimedia 2022, 1128-1137.
 
 - Jinkai Zheng, **Xinchen Liu**, Xiaoyan Gu, Yaoqi Sun, Chuang Gan, Jiyong Zhang, Wu Liu, Chenggang Yan:
-_Gait Recognition in the Wild with Multi-hop Temporal Switch_. ACM Multimedia 2022 [ARXIV](https://arxiv.org/abs/2209.00355)
+_Gait Recognition in the Wild with Multi-hop Temporal Switch_. ACM Multimedia 2022, 6136-6145 [ARXIV](https://arxiv.org/abs/2209.00355)
 
 - Xiaodong Chen, **Xinchen Liu**, Kun Liu, Wu Liu, Dong Wu, Yongdong Zhang, Tao Mei:
-_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476) (**IEEE CAS MSA-TC 2022 Best Paper Award Honorable Mention**)
+_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_. ISCAS 2022, 419-423 (**Lecture Presentation**) [PAPER](https://arxiv.org/abs/2203.04476) (**IEEE CAS MSA-TC 2022 Best Paper Award Honorable Mention**)
 
 - Jinkai Zheng, **Xinchen Liu**, Wu Liu, Lingxiao He, Chenggang Yan, Tao Mei:
-_Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022. [PROJECT](https://gait3d.github.io/) [CODE](https://github.com/Gait3D/Gait3D-Benchmark) [ARXIV](https://arxiv.org/abs/2204.02569)
+_Gait Recognition in the Wild with Dense 3D Representations and A Benchmark_. CVPR 2022, 20228-20237. [PROJECT](https://gait3d.github.io/) [CODE](https://github.com/Gait3D/Gait3D-Benchmark) [ARXIV](https://arxiv.org/abs/2204.02569)
 
 ### 2021
 - Wu Liu, **Xinchen Liu**, Jingkuan Song, Dingwen Zhang, Wenbing Huang, Junbo Guo, John Smith:
