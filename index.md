@@ -174,7 +174,7 @@ Local Session Chair, ACM Multimedia 2021
 
 Proceedings Co-Chair, ACM Multimedia Asia 2021
 
-Co-chair, HUMA 2021 Workshop at ACM Multimedia 2021
+Co-chair, HUMA Workshop at ACM Multimedia 2020~2023
 
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, Neurocomputing, MTAP, ...
 
