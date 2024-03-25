@@ -8,16 +8,17 @@
 
 ## About Me
 I am currently a Senior Researcher at JD Explore Academy.
-My research interests include multimedia computing, computer vision, and their applications in retail.
+My research interests include multimedia computing, computer vision, generative models for visual contents, and their applications in retail.
 I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018. 
 I received my B.S. degree from Northwest A&F University in 2011.
 
 **We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
 Please directly send your CV to my email if you are interested in the positions! :D**
 
-
 ---
 ## Recent News
+- March, 2024, **One paper** on action segmentation using IoT signals was accepted by **ACM ToMM** ([arXiv](https://arxiv.org/abs/2311.17428)). Congratulations to our collaborators!
+- Febrary, 2024, **One paper** on efficient human NeRF was accepted by **CVPR 2024** ([arXiv](https://arxiv.org/abs/2312.02232)). Congratulations to our collaborators!
 - October, 2023, we will host **The 4th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. **Workshop Date: 2, November, 2023** in Ottawa, Canada.
 - September, 2023, our open-source toolbox **FastReID** ([GitHub](https://github.com/JDAI-CV/fast-reid)) was accepted by the open-source software competition session of **ACM Multimedia 2023**. Congratulations to our team and collaborators! FastReID is a PyTorch-based toolbox for general object re-identification with SOTA algorithms and models.
 - August, 2023, **One paper** on gait recognition with a new dataset ([Project](https://gait3d.github.io/gait3d-parsing-hp/)) was accepted by **ACM Multimedia 2023**. Congratulations to our team and collaborators!
@@ -60,6 +61,13 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
+
+### 2024
+- Caoyuan Ma, Yu-Lun Liu, Zhixiang Wang, Wu Liu, **Xinchen Liu**, Zheng Wang
+_HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses_. CVPR 2024. (Accepted)
+
+- Qi Liu, Xinchen Liu, Kun Liu, Xiaoyan Gu, Wu Liu
+_SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation_. ACM ToMM 2024. (Accepted)
 
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
@@ -170,7 +178,7 @@ June, 2020, NCIG 2020 Outstanding Doctor and Young Scholar Panel (2020全国图�
 
 ---
 ## Activities
-Area Chair, ICME 2022
+Area Chair, ICME 2022/2024
 
 Local Session Chair, ACM Multimedia 2021
 
@@ -271,4 +279,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **January, 2024**_
+_Last Update: **March, 2024**_
