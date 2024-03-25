@@ -63,10 +63,10 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 ### 2024
-- Caoyuan Ma, Yu-Lun Liu, Zhixiang Wang, Wu Liu, **Xinchen Liu**, Zheng Wang
+- Caoyuan Ma, Yu-Lun Liu, Zhixiang Wang, Wu Liu, **Xinchen Liu**, Zheng Wang:
 _HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses_. CVPR 2024. (Accepted)
 
-- Qi Liu, Xinchen Liu, Kun Liu, Xiaoyan Gu, Wu Liu
+- Qi Liu, Xinchen Liu, Kun Liu, Xiaoyan Gu, Wu Liu:
 _SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation_. ACM ToMM 2024. (Accepted)
 
 ### 2023 
