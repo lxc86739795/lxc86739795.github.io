@@ -186,9 +186,9 @@ Proceedings Co-Chair, ACM Multimedia Asia 2021
 
 Co-chair, HUMA Workshop at ACM Multimedia 2020~2023
 
-Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, Neurocomputing, MTAP, ...
+Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, etc.
 
-Conference Reviewer: CVPR, ACM MM, ICCV, ECCV, SIGIR, AAAI, ICME, ICASSP, ICIP, ...
+Conference Reviewer: CVPR, ACM MM, ICCV, ECCV, SIGIR, AAAI, ICME, ICASSP, ICIP, etc.
 
 Membership: CCF/CSIG Senior Member, IEEE/ACM Member.
 
