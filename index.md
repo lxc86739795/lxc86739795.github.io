@@ -2,21 +2,24 @@
 
 * Xinchen Liu (刘鑫辰)
 
-* Email: ![Image](./images/email.png) or ![Image](./images/email2.png) *My previous email xinchenliu \[at\] bupt \[dot\] edu \[dot\] cn has been deprecated.
+* Email:![Image](./images/email.png) or ![Image](./images/email2.png) *My previous email xinchenliu \[at\] bupt \[dot\] edu \[dot\] cn has been deprecated.
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Senior Researcher at JD Explore Academy.
-My research interests include multimedia computing, computer vision, generative models for visual contents, and their applications in retail.
-I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018. 
+I am currently a Senior Researcher at JD Explore Academy led by [Dr. Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en&oi=ao).
+My research interests include multimedia computing, computer vision, generative models for visual content, and their applications in retail.
+I was working closely with [Prof. Wu Liu](https://scholar.google.com/citations?user=rQpizr0AAAAJ&hl=en) and [Dr. Tao Mei](https://scholar.google.com/citations?user=7Yq4wf4AAAAJ&hl=en) in my early career.
+I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018, under the supervision of [Prof. Huadong Ma](https://scholar.google.com/citations?user=A-vcjvUAAAAJ&hl=en).
 I received my B.S. degree from Northwest A&F University in 2011.
 
-**We are recruiting self-motivated interns in computer vision, deep learning, and multimedia.
-Please directly send your CV to my email if you are interested in the positions! :D**
+**We are recruiting self-motivated interns in computer vision and multimedia.
+Please send your CV to my email if you are interested in the positions! :D**
 
 ---
 ## Recent News
+- July, 2024, we are organizing **The 5th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2024. Paper submission due is **31 July 2024**. Welcome submissions! [Website](https://hcma2024.github.io/). Two challenges,  [Multimodal Human Motion Capture](https://hcma2024.github.io/mhmc) and [Multimodal Gait Recognition](https://hcma2024.github.io/mgr), are also open for participation!
+- July, 2024, **One paper** on gait recognition with multi-modal representations was accepted by **ACM Multimedia 2024**. Congratulations to our team and collaborators!
 - March, 2024, **One paper** on action segmentation using IoT signals was accepted by **ACM ToMM** ([arXiv](https://arxiv.org/abs/2311.17428)). Congratulations to our collaborators!
 - Febrary, 2024, **One paper** on efficient human NeRF was accepted by **CVPR 2024** ([arXiv](https://arxiv.org/abs/2312.02232)). Congratulations to our collaborators!
 - October, 2023, we will host **The 4th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2023. **Workshop Date: 2, November, 2023** in Ottawa, Canada.
@@ -63,11 +66,14 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
 
 ### 2024
-- Caoyuan Ma, Yu-Lun Liu, Zhixiang Wang, Wu Liu, **Xinchen Liu**, Zheng Wang:
-_HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses_. CVPR 2024. (Accepted)
+- Jinkai Zheng, **Xinchen Liu**, Boyue Zhang, Chenggang Yan, Jiyong Zhang, Wu Liu, Yongdong Zhang:
+_It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment_. ACM Multimedia 2024. [ARXIV](Coming soon.)
 
-- Qi Liu, Xinchen Liu, Kun Liu, Xiaoyan Gu, Wu Liu:
-_SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation_. ACM ToMM 2024. (Accepted)
+- Caoyuan Ma, Yu-Lun Liu, Zhixiang Wang, Wu Liu, **Xinchen Liu**, Zheng Wang:
+_HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses_. CVPR 2024. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_HumanNeRF-SE_A_Simple_yet_Effective_Approach_to_Animate_HumanNeRF_with_CVPR_2024_paper.html)
+
+- Qi Liu, **Xinchen Liu**, Kun Liu, Xiaoyan Gu, Wu Liu:
+_SigFormer: Sparse Signal-Guided Transformer for Multi-Modal Human Action Segmentation_. ACM ToMM 2024. [Paper](https://dl.acm.org/doi/10.1145/3657296)
 
 ### 2023 
 - Jinkai Zheng, **Xinchen Liu**, Shuai Wang, Lihao Wang, Chenggang Yan, Wu Liu:
@@ -279,4 +285,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **March, 2024**_
+_Last Update: **July, 2024**_
