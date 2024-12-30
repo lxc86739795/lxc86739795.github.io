@@ -7,7 +7,7 @@
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Senior Researcher at JD Explore Academy led by [Dr. Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en&oi=ao).
+I am currently a Senior Researcher leading the Fundamental Video Intelligence Lab at JD Explore Academy led by [Dr. Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en&oi=ao).
 My research interests include multimedia computing, computer vision, generative models for visual content, and their applications in retail.
 I was working closely with [Prof. Wu Liu](https://scholar.google.com/citations?user=rQpizr0AAAAJ&hl=en) and [Dr. Tao Mei](https://scholar.google.com/citations?user=7Yq4wf4AAAAJ&hl=en) in my early career.
 I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018, under the supervision of [Prof. Huadong Ma](https://scholar.google.com/citations?user=A-vcjvUAAAAJ&hl=en).
@@ -67,7 +67,13 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2024
 - Jinkai Zheng, **Xinchen Liu**, Boyue Zhang, Chenggang Yan, Jiyong Zhang, Wu Liu, Yongdong Zhang:
-_It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment_. ACM Multimedia 2024. [ARXIV](Coming soon.)
+_It Takes Two: Accurate Gait Recognition in the Wild via Cross-granularity Alignment_. ACM Multimedia 2024, 8786-8794. [ARXIV](https://arxiv.org/abs/2411.10742)
+
+- Xiaodong Chen, Kunlang He, Wu Liu, **Xinchen Liu**, Zheng-Jun Zha, Tao Mei:
+_CLaM: An Open-Source Library for Performance Evaluation of Text-driven Human Motion Generation_. ACM Multimedia 2024, 11194-11197. [Paper](https://dl.acm.org/doi/abs/10.1145/3664647.3685523)
+
+- Hengyuan Liu, Xiaodong Chen, Xinchen Liu, Xiaoyan Gu, Wu Liu:
+_AnimateAnywhere: Context-Controllable Human Video Generation with ID-Consistent One-shot Learning_, ACM Multimedia 2024 HCMA Workshop. [Paper](https://dl.acm.org/doi/abs/10.1145/3688865.3689477)
 
 - Caoyuan Ma, Yu-Lun Liu, Zhixiang Wang, Wu Liu, **Xinchen Liu**, Zheng Wang:
 _HumanNeRF-SE: A Simple yet Effective Approach to Animate HumanNeRF with Diverse Poses_. CVPR 2024. [Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ma_HumanNeRF-SE_A_Simple_yet_Effective_Approach_to_Animate_HumanNeRF_with_CVPR_2024_paper.html)
@@ -176,7 +182,9 @@ _Vehicle Retrieval and Trajectory Inference in Urban Traffic Surveillance Scene_
 
 ---
 ## Talks
-December, 2023, The 19th Young Scientists Conference of the Chinese Society of Image and Graphics (第19届中国图象图形学学会青年科学家会议)，优博论坛, "大规模自然场景步态识别初探"（In Chinese）.
+December, 2024, China Conference on Artificial Intelligence (2024中国人工智能大会), 自然语言处理专题论坛, "人工智能基础模型走向多模态与产业落地" (In Chinese).
+
+December, 2023, The 19th Young Scientists Conference of the Chinese Society of Image and Graphics (第19届中国图象图形学学会青年科学家会议), 优博论坛, "大规模自然场景步态识别初探" (In Chinese).
 
 August, 2022, CCIG 2022 Young Scholar Panel (2022中国图象图形学大会，青年学者论坛), "Gait Recognition from 2D to 3D". [SLIDES](./papers/CCIG2022_Gait3D_XinchenLiu.pdf)
 
@@ -190,7 +198,7 @@ Local Session Chair, ACM Multimedia 2021
 
 Proceedings Co-Chair, ACM Multimedia Asia 2021
 
-Co-chair, HUMA Workshop at ACM Multimedia 2020~2023
+Co-chair, HUMA Workshop at ACM Multimedia 2020~2024
 
 Journal Reviewer: IEEE TPAMI, IEEE TMM, IEEE TIP, IEEE TCSVT, IEEE TITS, IEEE TMC, ACM TOMM, ACM TIST, IoTJ, etc.
 
@@ -224,7 +232,7 @@ IEEE ICME Best Student Paper Award, 2016, for the paper "_Large-scale vehicle re
 ## Research
 
 ### Gait Recognition in the Wild with dense 3D Representations ([More Details](https://gait3d.github.io/))
-Existing studies for gait recognition are dominated by 2D representations like the silhouette or skeleton of the human body in constrained scenes. However, humans live and walk in the unconstrained 3D space, so projecting the 3D human body onto the 2D plane will discard a lot of crucial information like the viewpoint, shape, and dynamics for gait recognition. Therefore, this paper aims to explore dense 3D representations for gait recognition in the wild, which is a practical yet neglected problem. In particular, we propose a novel framework to explore the 3D Skinned Multi-Person Linear (SMPL) model of the human body for gait recognition, named SMPLGait. Our framework has two elaborately-designed branches of which one extracts appearance features from silhouettes, the other learns knowledge of 3D viewpoints and shapes from the 3D SMPL model. With the learned 3D knowledge, the appearance features from arbitrary viewpoints can be normalized in the latent space to overcome the extreme viewpoint changes in the wild scenes. In addition, due to the lack of suitable datasets, we build the first large-scale 3D representation-based gait recognition dataset, named Gait3D. It contains 4,000 subjects and over 25,000 sequences extracted from 39 cameras in an unconstrained indoor scene. More importantly, it provides 3D SMPL models recovered from video frames which can provide dense 3D information of body shape, viewpoint, and dynamics. Furthermore, it also provides 2D silhouettes and keypoints that can be explored for gait recognition using multi-modal data. Based on Gait3D, we comprehensively compare our method with existing gait recognition approaches, which reflects the superior performance of our framework and the potential of 3D representations for gait recognition in the wild.
+Existing studies for gait recognition are dominated by 2D representations like the silhouette or skeleton of the human body in constrained scenes. However, humans live and walk in unconstrained 3D space, so projecting the 3D human body onto the 2D plane will discard a lot of crucial information like the viewpoint, shape, and dynamics for gait recognition. Therefore, this paper aims to explore dense 3D representations for gait recognition in the wild, which is a practical yet neglected problem. In particular, we propose a novel framework to explore the 3D Skinned Multi-Person Linear (SMPL) model of the human body for gait recognition, named SMPLGait. Our framework has two elaborately designed branches of which one extracts appearance features from silhouettes, the other learns knowledge of 3D viewpoints and shapes from the 3D SMPL model. With the learned 3D knowledge, the appearance features from arbitrary viewpoints can be normalized in the latent space to overcome the extreme viewpoint changes in the wild scenes. In addition, due to the lack of suitable datasets, we build the first large-scale 3D representation-based gait recognition dataset, named Gait3D. It contains 4,000 subjects and over 25,000 sequences extracted from 39 cameras in an unconstrained indoor scene. More importantly, it provides 3D SMPL models recovered from video frames which can provide dense 3D information of body shape, viewpoint, and dynamics. Furthermore, it also provides 2D silhouettes and keypoints that can be explored for gait recognition using multi-modal data. Based on Gait3D, we comprehensively compare our method with existing gait recognition approaches, which reflects the superior performance of our framework and the potential of 3D representations for gait recognition in the wild.
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/gait3d.png)
 
