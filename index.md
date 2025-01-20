@@ -18,6 +18,7 @@ Please send your CV to my email if you are interested in the positions! :D**
 
 ---
 ## Recent News
+- January, 2025, we are organizing **The Special Session of Multi-modal Agents for Visual Analysis and Generation** in conjunction with IEEE ICIP. Paper submission due is **22 Jan 2024**. Welcome submissions! [Website](https://2025.ieeeicip.org/special-sessions/)
 - July, 2024, we are organizing **The 5th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2024. Paper submission due is **31 July 2024**. Welcome submissions! [Website](https://hcma2024.github.io/). Two challenges,  [Multimodal Human Motion Capture](https://hcma2024.github.io/mhmc) and [Multimodal Gait Recognition](https://hcma2024.github.io/mgr), are also open for participation!
 - July, 2024, **One paper** on gait recognition with multi-modal representations was accepted by **ACM Multimedia 2024**. Congratulations to our team and collaborators!
 - March, 2024, **One paper** on action segmentation using IoT signals was accepted by **ACM ToMM** ([arXiv](https://arxiv.org/abs/2311.17428)). Congratulations to our collaborators!
@@ -293,4 +294,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **July, 2024**_
+_Last Update: **January, 2025**_
