@@ -13,11 +13,11 @@ I was working closely with [Prof. Wu Liu](https://scholar.google.com/citations?u
 I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018, under the supervision of [Prof. Huadong Ma](https://scholar.google.com/citations?user=A-vcjvUAAAAJ&hl=en).
 I received my B.S. degree from Northwest A&F University in 2011.
 
-**We are recruiting self-motivated interns in computer vision and multimedia.
-Please send your CV to my email if you are interested in the positions! :D**
+**We are recruiting self-motivated interns in computer vision and multimedia. Please send your CV to my email if you are interested in the positions! :D**
 
 ---
 ## Recent News
+- February, 2025, our team obtained the **2024 Chinese Association for Artificial Intelligence Wu Wenjun Artificial Intelligence Science and Technology Award, Special Prize for Technology Progress Award (中国人工智能学会吴文俊人工智能科技奖，科技进步特等奖)**. [Link](https://caai.cn/index.php?s=/home/article/detail/id/4486.html).
 - January, 2025, we are organizing **The Special Session of Multi-modal Agents for Visual Analysis and Generation** in conjunction with IEEE ICIP. Paper submission due is **22 Jan 2024**. Welcome submissions! [Website](https://2025.ieeeicip.org/special-sessions/)
 - July, 2024, we are organizing **The 5th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2024. Paper submission due is **31 July 2024**. Welcome submissions! [Website](https://hcma2024.github.io/). Two challenges,  [Multimodal Human Motion Capture](https://hcma2024.github.io/mhmc) and [Multimodal Gait Recognition](https://hcma2024.github.io/mgr), are also open for participation!
 - July, 2024, **One paper** on gait recognition with multi-modal representations was accepted by **ACM Multimedia 2024**. Congratulations to our team and collaborators!
@@ -209,6 +209,8 @@ Membership: CCF/CSIG Senior Member, IEEE/ACM Member.
 
 ---
 ## Awards and Honors
+Chinese Association for Artificial Intelligence Wu Wenjun Artificial Intelligence Science and Technology Award, 2024, Special Prize for Technology Progress Award (2024年度中国人工智能学会吴文俊人工智能科技奖，科技进步特等奖 (3/15) )
+
 ChinaMM Multimedia Industrial Innovative Technology Award, 2023, for the project "_Key Technology on Multi-modal Human Analysis_"
 
 IEEE CAS MSA-TC Best Paper Award - Honorable Mention, 2022, for the paper "_Part-level Action Parsing via a Pose-guided Coarse-to-Fine Framework_"
@@ -294,4 +296,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **January, 2025**_
+_Last Update: **February, 2025**_
