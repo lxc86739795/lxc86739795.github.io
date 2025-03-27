@@ -17,7 +17,7 @@ I received my B.S. degree from Northwest A&F University in 2011.
 
 ---
 ## Recent News
-- Feb, 2025, **Two paper** about multi-modal generation was accepted by **CVPR 2025**. Congratulations to our team and collaborators!
+- Feb, 2025, **Two papers** about multi-modal generation was accepted by **CVPR 2025**. Congratulations to our team and collaborators!
 - February, 2025, our team obtained the **2024 Chinese Association for Artificial Intelligence Wu Wenjun Artificial Intelligence Science and Technology Award, Special Prize for Technology Progress Award (中国人工智能学会吴文俊人工智能科技奖，科技进步特等奖)**. [Link](https://caai.cn/index.php?s=/home/article/detail/id/4486.html).
 - January, 2025, we are organizing **The Special Session of Multi-modal Agents for Visual Analysis and Generation** in conjunction with IEEE ICIP. Paper submission due is **22 Jan 2024**. Welcome submissions! [Website](https://2025.ieeeicip.org/special-sessions/)
 - July, 2024, we are organizing **The 5th International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2024. Paper submission due is **31 July 2024**. Welcome submissions! [Website](https://hcma2024.github.io/). Two challenges,  [Multimodal Human Motion Capture](https://hcma2024.github.io/mhmc) and [Multimodal Gait Recognition](https://hcma2024.github.io/mgr), are also open for participation!
@@ -66,6 +66,13 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
+
+### 2025
+- Kun Liu, Qi Liu, **Xinchen Liu**, Jie Li, Yongdong Zhang, Jiebo Luo, Xiaodong He, Wu Liu:
+_HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation_. CVPR 2025.
+
+- Lifu Wang, Daqing Liu, **Xinchen Liu**, Xiaodong He:
+_Scaling Down Text Encoders of Text-to-Image Diffusion Models_. CVPR 2025.
 
 ### 2024
 - Jinkai Zheng, **Xinchen Liu**, Boyue Zhang, Chenggang Yan, Jiyong Zhang, Wu Liu, Yongdong Zhang:
