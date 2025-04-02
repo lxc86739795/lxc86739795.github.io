@@ -69,10 +69,10 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2025
 - Kun Liu, Qi Liu, **Xinchen Liu**, Jie Li, Yongdong Zhang, Jiebo Luo, Xiaodong He, Wu Liu:
-_HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation_. CVPR 2025.
+_HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation_. CVPR 2025. [ARXIV](https://arxiv.org/abs/2503.23715)
 
 - Lifu Wang, Daqing Liu, **Xinchen Liu**, Xiaodong He:
-_Scaling Down Text Encoders of Text-to-Image Diffusion Models_. CVPR 2025.
+_Scaling Down Text Encoders of Text-to-Image Diffusion Models_. CVPR 2025. [ARXIV](https://arxiv.org/abs/2503.19897)
 
 ### 2024
 - Jinkai Zheng, **Xinchen Liu**, Boyue Zhang, Chenggang Yan, Jiyong Zhang, Wu Liu, Yongdong Zhang:
