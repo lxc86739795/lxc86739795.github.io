@@ -17,6 +17,7 @@ I received my B.S. degree from Northwest A&F University in 2011.
 
 ---
 ## Recent News
+- May, 2025, our **HOIGen-1M dataset** for human-object interaction video generation can now be accessed on [Hugging Face](https://huggingface.co/datasets/HOIGen/HOIGen-1M)! Welcome to use it!
 - Feb, 2025, **Two papers** about multi-modal generation was accepted by **CVPR 2025**. Congratulations to our team and collaborators!
 - February, 2025, our team obtained the **2024 Chinese Association for Artificial Intelligence Wu Wenjun Artificial Intelligence Science and Technology Award, Special Prize for Technology Progress Award (中国人工智能学会吴文俊人工智能科技奖，科技进步特等奖)**. [Link](https://caai.cn/index.php?s=/home/article/detail/id/4486.html).
 - January, 2025, we are organizing **The Special Session of Multi-modal Agents for Visual Analysis and Generation** in conjunction with IEEE ICIP. Paper submission due is **22 Jan 2024**. Welcome submissions! [Website](https://2025.ieeeicip.org/special-sessions/)
@@ -38,7 +39,7 @@ I received my B.S. degree from Northwest A&F University in 2011.
 - March, 2022, the [Gait3D dataset](https://gait3d.github.io/) and the [code](https://github.com/Gait3D/Gait3D-Benchmark) in our CVPR 2022 paper are now released! Any research can obtain the dataset by signing an agreement.
 - March, 2022, we are organizing **The 1st International Workshop on 3D Multimedia Analytics, Search and Generation (3DMM)** in conjunction with IEEE ICME 2022. Paper submission due is extended to **27 March 2022**. Welcome submissions! [Website](https://3dmm-icme2022.github.io/)
 - March, 2022, one paper on **3D gait recognition and a new benchmark Gait3D** was accepted by **CVPR 2022**. Congrats to my intern Jinkai Zheng and thanks to our collaborators! The paper and the new dataset will be released soon.
-- February, 2022, 40+ algorithms of CV, NLP, Supply Chain, etc. developed by our group and collaborators have been open-souced on OpenI（启智）. Welcome to use the codes at [JD on OpenI](https://git.openi.org.cn/JDOpenISCT).
+- February, 2022, 40+ algorithms of CV, NLP, Supply Chain, etc. developed by our group and collaborators have been open-sourced on OpenI（启智）. Welcome to use the codes at [JD on OpenI](https://git.openi.org.cn/JDOpenISCT).
 - January, 2022, one paper on fine-grained action parsing was accepted as a lecture (oral) presentation by **IEEE ISCAS 2022**. Congratulations to my intern [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and thanks to our collaborators!
 - November, 2021, I will serve as an Area Chair for [ICME 2022](http://2022.ieeeicme.org/).
 - October, 2021, our team obtained the **2nd Award** in [ICCV21 DeeperAction Challenge Track 3 - Kinetics-TPS Challenge on Part-level Action Parsing](https://deeperaction.github.io/results/). Congratulations to our teammates [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en) and [Kun Liu](https://scholar.google.com/citations?user=NMMB7wcAAAAJ&hl=en&oi=ao)! The technical report of our solution can be found [HERE](https://arxiv.org/abs/2110.03368).
@@ -46,7 +47,7 @@ I received my B.S. degree from Northwest A&F University in 2011.
 - August, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** in conjunction with ACM Multimedia 2021. Paper submission due is extended to **17 August 2021**. Welcome submissions! [Website](https://hcma2021.github.io/)
 - July, 2021, one paper on Explanable Person ReID was accepted by **ICCV 2021**. Congrats to my intern [Xiaodong Chen](https://scholar.google.com/citations?user=FZJ-fFYAAAAJ&hl=en).
 - May, 2021, our paper on IEEE ISCAS 2021 was selected as MSA-TC "**Best Paper Award - Honorable Mention**". Thanks to our collaborators!
-- May, 2021, our team are organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
+- May, 2021, our team is organizing **ACM Multimedia Asia 2021**. Paper submission due: 19 July 2021. [Website](https://mmasia2021.uqcloud.net/)
 - April, 2021, we are organizing **The 2nd International Workshop On Human-Centric Multimedia Analysis (HUMA)** with ACM Multimedia 2021. Paper submission due: 10 August 2021. [Website](https://hcma2021.github.io/)
 - January, 2021, one paper on gait recognition was accepted as a lecture (oral) presentation by **IEEE ISCAS 2021**. Congratulations to Jinkai Zheng and thanks to our collaborators!
 - December, 2020, our team won the **Championship** in [NAIC Challenge 2020 AI+Person ReID Track](https://mp.weixin.qq.com/s/iktrS9If12uum0_qQ1MZ1A). Congratulations to our teammates [Xingyu Liao](https://github.com/L1aoXingyu), [Lingxiao He](https://lingxiao-he.github.io/), [Peng Cheng](https://github.com/CPFLAME), and [Guanan Wang](https://wangguanan.github.io/)!
@@ -69,7 +70,7 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ### 2025
 - Kun Liu, Qi Liu, **Xinchen Liu**, Jie Li, Yongdong Zhang, Jiebo Luo, Xiaodong He, Wu Liu:
-_HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation_. CVPR 2025. [ARXIV](https://arxiv.org/abs/2503.23715)
+_HOIGen-1M: A Large-scale Dataset for Human-Object Interaction Video Generation_. CVPR 2025. [ARXIV](https://arxiv.org/abs/2503.23715) [Project](https://liuqi-creat.github.io/HOIGen.github.io/)
 
 - Lifu Wang, Daqing Liu, **Xinchen Liu**, Xiaodong He:
 _Scaling Down Text Encoders of Text-to-Image Diffusion Models_. CVPR 2025. [ARXIV](https://arxiv.org/abs/2503.19897)
@@ -304,4 +305,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **February, 2025**_
+_Last Update: **May, 2025**_
