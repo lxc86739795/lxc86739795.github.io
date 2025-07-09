@@ -247,11 +247,13 @@ Text-to-video (T2V) generation has made tremendous progress in generating compli
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/hoigen.png)
 
+---
 ### Gait Recognition in the Wild with dense 3D Representations ([More Details](https://gait3d.github.io/))
 Existing studies for gait recognition are dominated by 2D representations like the silhouette or skeleton of the human body in constrained scenes. However, humans live and walk in unconstrained 3D space, so projecting the 3D human body onto the 2D plane will discard a lot of crucial information like the viewpoint, shape, and dynamics for gait recognition. Therefore, this paper aims to explore dense 3D representations for gait recognition in the wild, which is a practical yet neglected problem. In particular, we propose a novel framework to explore the 3D Skinned Multi-Person Linear (SMPL) model of the human body for gait recognition, named SMPLGait. Our framework has two elaborately designed branches, of which one extracts appearance features from silhouettes, and the other learns knowledge of 3D viewpoints and shapes from the 3D SMPL model. With the learned 3D knowledge, the appearance features from arbitrary viewpoints can be normalized in the latent space to overcome the extreme viewpoint changes in the wild scenes. In addition, due to the lack of suitable datasets, we build the first large-scale 3D representation-based gait recognition dataset, named Gait3D. It contains 4,000 subjects and over 25,000 sequences extracted from 39 cameras in an unconstrained indoor scene. More importantly, it provides 3D SMPL models recovered from video frames, which can provide dense 3D information of body shape, viewpoint, and dynamics. Furthermore, it also provides 2D silhouettes and keypoints that can be explored for gait recognition using multi-modal data. Based on Gait3D, we comprehensively compare our method with existing gait recognition approaches, which reflects the superior performance of our framework and the potential of 3D representations for gait recognition in the wild.
 
 &ensp;&ensp;&ensp;&ensp;![Image](./images/gait3d.png)
 
+---
 ### Progressive Vehicle Search in Larve-scale Surveillance Networks ([More Details](http://vehiclereid.github.io/VeRi/))
 Compared with person re-identification, which has concentrated attention, vehicle re-identification is an important yet frontier problem in video surveillance and has been neglected by the multimedia and vision communities. 
 Since most existing approaches mainly consider the general vehicle appearance for re-identification while overlooking the distinct vehicle identifier, such as the license number plate, they attain suboptimal performance. 
