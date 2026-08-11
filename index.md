@@ -7,7 +7,7 @@
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
 ## About Me
-I am currently a Senior Researcher leading the Fundamental Video Intelligence Lab at JD Explore Academy led by [Dr. Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en&oi=ao).
+I am currently a Senior Researcher at JD Explore Academy led by [Dr. Xiaodong He](https://scholar.google.com/citations?user=W5WbqgoAAAAJ&hl=en&oi=ao).
 My research interests include multimedia computing, computer vision, generative models for visual content, and their applications in retail.
 I was working closely with [Prof. Wu Liu](https://scholar.google.com/citations?user=rQpizr0AAAAJ&hl=en) and [Dr. Tao Mei](https://scholar.google.com/citations?user=7Yq4wf4AAAAJ&hl=en) in my early career.
 I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018, under the supervision of [Prof. Huadong Ma](https://scholar.google.com/citations?user=A-vcjvUAAAAJ&hl=en).
@@ -67,6 +67,25 @@ https://github.com/lxc86739795/human_vehicle_parsing_platform). It supported mul
 
 ---
 ## Publications ([dblp](https://dblp.uni-trier.de/pers/hd/l/Liu:Xinchen) [Google Scholar](https://scholar.google.com/citations?user=31Dv7M0AAAAJ&hl=en))
+
+### 2026
+- Yang-yang Li, Wu Liu, Jie Li, **Xinchen Liu**, Yongdong Zhang, Guoqing Jin:
+_DiasR: Dual-Modal Identity-Anchored Sparse Routing for Efficient Multi-Subject Video Generation_. ICML 2026. [PAPER](https://openreview.net/forum?id=uh5Nnl0fFd)
+
+- Xiaodong Chen, Wu Liu, Qian Bao, **Xinchen Liu**, Ruoli Dai, Yongdong Zhang, Tao Mei:
+_Motion capture from inertial and vision sensors_. IEEE TMM 2026. [PAPER](https://ieeexplore.ieee.org/abstract/document/11594977/)
+
+- Qi Liu, Kun Liu, **Xinchen Liu**, Xiaoyan Gu, Zhaochun Ren, Yongdong Zhang, Wu Liu:
+_DSA: A Dual Safety Approach for Test-Time Temporal Risk Removal of Video Generation_. IEEE TCSVT 2026. [PAPER](https://ieeexplore.ieee.org/abstract/document/11503313/)
+
+- Yujia Liang, Jile Jiao, Xuetao Feng, **Xinchen Liu**, Kun Liu, Yuan Wang, Zixuan Ye, Hao Lu, Zhicheng Wang:
+_IPFormer: Instance Prompt-guided Transformer for Multi-modal Multi-shot Video Understanding_. AAAI 2026. [PAPER](https://ojs.aaai.org/index.php/AAAI/article/view/37624)
+
+- Haofeng Chen, Jinkai Zheng, Kun Liu, **Xinchen Liu**, Liangqiong Qu, Ming Li, Wu Liu, Chenggang Yan:
+_EVBench: A Comprehensive Benchmark of Video Generative Models for E-commerce Scenarios_. ACM ToMM 2026. [PAPER](https://dl.acm.org/doi/abs/10.1145/3830242)
+
+- Jinkai Zheng, Jiaqing Wei, Xinxiang Jin, Yaoqi Sun, Xichun Sheng, Ming Li, Liangqiong Qu, **Xinchen Liu**, Wu Liu:
+_HyperGait: Unleashing the Power of Parsing for Gait Recognition in the Wild via Hypergraph_. IEEE CVPR 2026. ((**Highlight Paper**)) [PAPER](https://openaccess.thecvf.com/content/CVPR2026/papers/Zheng_HyperGait_Unleashing_the_Power_of_Parsing_for_Gait_Recognition_in_CVPR_2026_paper.pdf)
 
 ### 2025
 - Kun Liu, Qi Liu, **Xinchen Liu**, Jie Li, Yongdong Zhang, Jiebo Luo, Xiaodong He, Wu Liu:
@@ -311,4 +330,4 @@ The dataset can be downloaded from [BaiduPan (~57GB, download code: jzei)](https
 ![Image](./images/ViSR1_240.png)![Image](./images/ViSR2_240.png)
 ---
 
-_Last Update: **July, 2025**_
+_Last Update: **June, 2026**_
