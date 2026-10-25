@@ -2,7 +2,7 @@
 
 * Xinchen Liu (刘鑫辰)
 
-* Email:![Image](./images/email.png) or ![Image](./images/email2.png) *My previous email xinchenliu \[at\] bupt \[dot\] edu \[dot\] cn has been deprecated.
+* Email: ![Image](./images/email2.png) *My previous email xinchenliu \[at\] bupt \[dot\] edu \[dot\] cn has been deprecated.
 
 * Github: [lxc86739795](https://github.com/lxc86739795)
 
@@ -13,7 +13,6 @@ I was working closely with [Prof. Wu Liu](https://scholar.google.com/citations?u
 I received my Ph. D. degree from the Beijing Key Lab of Intelligent Telecommunication Software and Multimedia, Beijing University of Posts and Telecommunications in 2018, under the supervision of [Prof. Huadong Ma](https://scholar.google.com/citations?user=A-vcjvUAAAAJ&hl=en).
 I received my B.S. degree from Northwest A&F University in 2011.
 
-**We are recruiting self-motivated interns in computer vision and multimedia. Please send your CV to my email if you are interested in the positions! :D**
 
 ---
 ## Recent News
